@@ -1,148 +1,140 @@
-\babel@toc {english}{}
-\babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}The Story}{1}%
-\contentsline {section}{Background}{1}%
-\contentsline {section}{The Seven}{3}%
-\contentsline {subsubsection}{Lathor - The Mother and Father, The Horizon}{3}%
-\contentsline {subsubsection}{Elledun - The Lantern-Bearer, The Rising Sun}{3}%
-\contentsline {subsubsection}{Belladon - The Open-Handed, The Crystal Spring}{3}%
-\contentsline {subsubsection}{Hemotate - The Book-Bearer, The Tree in the Storm}{3}%
-\contentsline {subsubsection}{Vathos - The Shield-Bearer, The Weathered Rock}{3}%
-\contentsline {subsubsection}{Novetta- The Arms-Bearer, The Consuming Fire}{3}%
-\contentsline {subsubsection}{Matreus - The Standard-Bearer, The Tower on the Hill}{3}%
-\contentsline {subsubsection}{Synne - The Horseman, The Buried Spire}{3}%
-\contentsline {section}{Groups in the World}{5}%
-\contentsline {chapter}{\numberline {2}The World of Velterra}{7}%
-\contentsline {section}{Velterra}{7}%
-\contentsline {section}{Hell}{8}%
-\contentsline {section}{Main Land}{8}%
-\contentsline {section}{Nanduan}{10}%
-\contentsline {section}{South Africa}{10}%
-\contentsline {chapter}{\numberline {3}Characters}{11}%
-\contentsline {section}{Kolo "Toure" Kozolski}{11}%
-\contentsline {subsubsection}{Background}{11}%
-\contentsline {subsubsection}{Personality and Traits}{11}%
-\contentsline {subsubsection}{Relationships}{11}%
-\contentsline {section}{Exmerah Sliokzog}{12}%
-\contentsline {subsubsection}{Background}{12}%
-\contentsline {subsubsection}{Personality and Traits}{12}%
-\contentsline {subsubsection}{Relationships}{12}%
-\contentsline {subsubsection}{Exme's Story}{12}%
-\contentsline {section}{Riphard Obsidian Hardstone}{14}%
-\contentsline {subsubsection}{Background}{14}%
-\contentsline {subsubsection}{Personality and Traits}{14}%
-\contentsline {subsubsection}{Relationships}{14}%
-\contentsline {subsubsection}{Riphard's Story}{14}%
-\contentsline {section}{Pilcheur Gamont}{15}%
-\contentsline {subsubsection}{Personality and Traits}{15}%
-\contentsline {subsubsection}{Relationships}{15}%
-\contentsline {subsubsection}{Pilch's Story}{15}%
-\contentsline {section}{Otoria Hearthrust}{16}%
-\contentsline {subsubsection}{Background}{16}%
-\contentsline {subsubsection}{Personality and Traits}{16}%
-\contentsline {subsubsection}{Relationships}{16}%
-\contentsline {subsubsection}{Otoria's Story}{16}%
-\contentsline {section}{Gary}{17}%
-\contentsline {subsubsection}{Personality and Traits}{17}%
-\contentsline {subsubsection}{Relationships}{17}%
-\contentsline {subsubsection}{Gary's Story}{17}%
-\contentsline {section}{Mark O'Synne}{18}%
-\contentsline {subsubsection}{Background}{18}%
-\contentsline {subsubsection}{Personality and Traits}{18}%
-\contentsline {subsubsection}{Relationships}{18}%
-\contentsline {subsubsection}{Mark's Story}{18}%
-\contentsline {section}{Radburny ''Burnie" Cinders}{19}%
-\contentsline {subsubsection}{Background}{19}%
-\contentsline {subsubsection}{Personality and Traits}{19}%
-\contentsline {subsubsection}{Relationships}{19}%
-\contentsline {subsubsection}{Burnies's Story}{19}%
-\contentsline {section}{Smaud Myron}{20}%
-\contentsline {subsubsection}{Background}{20}%
-\contentsline {subsubsection}{Personality and Traits}{20}%
-\contentsline {subsubsection}{Relationships}{20}%
-\contentsline {subsubsection}{Exme's Story}{20}%
-\contentsline {section}{Martin Andleberger}{21}%
-\contentsline {subsubsection}{Background}{21}%
-\contentsline {subsubsection}{Personality and Traits}{21}%
-\contentsline {subsubsection}{Relationships}{21}%
-\contentsline {section}{Anthony K Tigerius III}{22}%
-\contentsline {subsubsection}{Background}{22}%
-\contentsline {subsubsection}{Personality and Traits}{22}%
-\contentsline {subsubsection}{Relationships}{22}%
-\contentsline {section}{Miscellaneous Characters}{23}%
-\contentsline {chapter}{\numberline {4}Gear}{29}%
-\contentsline {section}{The Airship Gary}{29}%
-\contentsline {subsubsection}{Background}{29}%
-\contentsline {subsubsection}{Functions}{29}%
-\contentsline {section}{S.T.A.N.R.I}{31}%
-\contentsline {subsubsection}{Background}{31}%
-\contentsline {subsubsection}{Functions}{31}%
-\contentsline {section}{The Armory}{32}%
-\contentsline {section}{Miscellaneous Items}{35}%
-\contentsline {chapter}{\numberline {5}Episodes}{37}%
-\contentsline {section}{Episode 1: Riphard Begins}{37}%
-\contentsline {subsection}{Episode 2: In the Tiki, Tiki, Tiki, Tiki, Tiki Room}{39}%
-\contentsline {subsection}{Episode 3: The Horse Whisperer}{40}%
-\contentsline {subsection}{Episode 4: Whores or Boars?}{43}%
-\contentsline {subsection}{Episode 5: Pitter Patter of Tiny Bears}{44}%
-\contentsline {subsection}{Episode 6: Arbitration}{45}%
-\contentsline {subsection}{Episode 7: Mysterious Incident of the Cow in the night}{47}%
-\contentsline {subsection}{Episode 8: Freaky Fishy}{47}%
-\contentsline {subsection}{Episode 9: Live Free or R.I.P. Hard (In loving memory of Lady Otoria Hearthrust)}{49}%
-\contentsline {subsection}{Episode 9.1: Kolo's Tale (Part 1): The Greasy Rage of Clan Stanri }{53}%
-\contentsline {subsection}{Episode 9.2: Kolo's Tale (Part 2): Snakes on a boat!}{54}%
-\contentsline {subsection}{Episode 9.3: Kolo's Tale (Part 3): Kiss Myasis}{56}%
-\contentsline {subsubsection}{Classy}{57}%
-\contentsline {subsubsection}{Awks}{57}%
-\contentsline {subsection}{Episode 10: A Pretzel of Pointless Adventures}{57}%
-\contentsline {subsection}{Episode 11: Voyagers of the Cloudship Nontaprise}{58}%
-\contentsline {subsection}{Episode 12: The Marshal Methias EP}{59}%
-\contentsline {subsection}{Episode 13: Nobody Expects the...}{60}%
-\contentsline {subsection}{Episode 14: Lemon Stealing Whore}{61}%
-\contentsline {subsection}{Episode 15: Just Dessert - and some bird people}{64}%
-\contentsline {subsection}{Episode 16: I'll Bite your facking face off}{66}%
-\contentsline {subsection}{Episode 17: Hopes Rest}{67}%
-\contentsline {subsection}{Episode 18: Why Do You Guild Me Up?}{69}%
-\contentsline {subsection}{Episode 19: Shopping Land Business Channel - Part 2}{71}%
-\contentsline {subsection}{Episode 20: Bizznizz for Banks \& Emancipation for the Few not the Many}{73}%
-\contentsline {subsection}{Episode 21: Of Kokaine and Kevlar}{75}%
-\contentsline {subsection}{Episode 22: Life and Sole of the Party}{77}%
-\contentsline {subsection}{Episode 23: Illegal Fake Goblin Ham Meat Ring}{78}%
-\contentsline {subsection}{Episode 24: The Brightest Flame Casts the Darkest Shadow}{81}%
-\contentsline {subsection}{Episode 25: Terrible Trebuchets and Tenatious Tiki-tuks}{84}%
-\contentsline {subsection}{Episode 26: Never Walk a Stone}{84}%
-\contentsline {section}{Episode 27: Making New Friends is Fun but Losing Mark is Funner}{86}%
-\contentsline {subsection}{Episode 28: Pets Win Prizes}{90}%
-\contentsline {section}{Episode 29: In a While, Crocodile}{90}%
-\contentsline {subsection}{Episode 30: Lessons in Colour Theory. and Dem BONES!}{94}%
-\contentsline {section}{Episode 31: NOTICE ME SENPAI!!!}{95}%
-\contentsline {subsection}{Episode 32: Difficulty level Spoopy}{99}%
-\contentsline {section}{Episode 33: I Aint Afraid of No... Semi-Sentient Discorporeal Energy Sources}{100}%
-\contentsline {subsection}{Episode 33.5a: Quantum Bookburners Creed: Special Child Meat Edition}{102}%
-\contentsline {subsection}{Episode 33.5b: Huey Shitpirate and the News}{102}%
-\contentsline {subsection}{Episode 33.5c: Two days from retirement}{103}%
-\contentsline {subsection}{Episode 33.75: Bobacious Takes On Chrismas}{105}%
-\contentsline {subsection}{Episode 34: Turning Masudese}{109}%
-\contentsline {section}{Episode 35: Lord of Lightning Shifts His Gaze}{112}%
-\contentsline {chapter}{\numberline {6}Template Guide}{115}%
-\contentsline {section}{Section}{115}%
-\contentsline {subsection}{Subsection}{115}%
-\contentsline {subsubsection}{Subsubsection}{115}%
-\contentsline {paragraph}{Paragraph}{115}%
-\contentsline {subparagraph}{Subparagraph}{115}%
-\contentsline {section}{Items and Spells}{115}%
-\contentsline {subsubsection}{Foo's Quill}{115}%
-\contentsline {subsubsection}{Beautiful Typesetting}{115}%
-\contentsline {section}{Map Regions}{115}%
-\contentsline {subsection}{1. Village of Hommlet}{115}%
-\contentsline {subsubsection}{1a. Inn of the Welcome Wench}{115}%
-\contentsline {subsubsection}{1b. Blacksmith's Forge}{115}%
-\contentsline {subsection}{2. Foo's Castle}{115}%
-\contentsline {subsubsection}{2a. Moat}{115}%
-\contentsline {subsubsection}{2b. Entrance}{115}%
-\contentsline {chapter}{\numberline {7}Text Boxes}{116}%
-\contentsline {section}{As an Aside}{116}%
-\contentsline {section}{Tables}{116}%
-\contentsline {chapter}{\numberline {8}Monsters and NPCs}{117}%
-\contentsline {chapter}{\numberline {9}Colors}{118}%
-\contentsline {section}{Themed Colors}{118}%
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}The Story}{1}{}%
+\contentsline {section}{Background}{1}{}%
+\contentsline {section}{The Seven}{3}{}%
+\contentsline {subsubsection}{Lathor - The Mother and Father, The Horizon}{3}{}%
+\contentsline {subsubsection}{Elledun - The Lantern-Bearer, The Rising Sun}{3}{}%
+\contentsline {subsubsection}{Belladon - The Open-Handed, The Crystal Spring}{3}{}%
+\contentsline {subsubsection}{Hemotate - The Book-Bearer, The Tree in the Storm}{3}{}%
+\contentsline {subsubsection}{Vathos - The Shield-Bearer, The Weathered Rock}{3}{}%
+\contentsline {subsubsection}{Novetta- The Arms-Bearer, The Consuming Fire}{3}{}%
+\contentsline {subsubsection}{Matreus - The Standard-Bearer, The Tower on the Hill}{3}{}%
+\contentsline {subsubsection}{Synne - The Horseman, The Buried Spire}{3}{}%
+\contentsline {section}{Groups in the World}{5}{}%
+\contentsline {chapter}{\numberline {2}The World of Velterra}{8}{}%
+\contentsline {section}{Velterra}{8}{}%
+\contentsline {section}{Hell}{10}{}%
+\contentsline {section}{Main Land}{10}{}%
+\contentsline {section}{Nanduan}{12}{}%
+\contentsline {section}{South Africa}{12}{}%
+\contentsline {chapter}{\numberline {3}Characters}{14}{}%
+\contentsline {section}{Kolo "Toure" Kozolski}{14}{}%
+\contentsline {subsubsection}{Background}{14}{}%
+\contentsline {subsubsection}{Personality and Traits}{14}{}%
+\contentsline {subsubsection}{Relationships}{14}{}%
+\contentsline {section}{Exmerah Sliokzog}{15}{}%
+\contentsline {subsubsection}{Background}{15}{}%
+\contentsline {subsubsection}{Personality and Traits}{15}{}%
+\contentsline {subsubsection}{Relationships}{15}{}%
+\contentsline {subsubsection}{Exme's Story}{15}{}%
+\contentsline {section}{Riphard Obsidian Hardstone}{17}{}%
+\contentsline {subsubsection}{Background}{17}{}%
+\contentsline {subsubsection}{Personality and Traits}{17}{}%
+\contentsline {subsubsection}{Relationships}{17}{}%
+\contentsline {subsubsection}{Riphard's Story}{17}{}%
+\contentsline {section}{Pilcheur Gamont}{18}{}%
+\contentsline {subsubsection}{Background}{18}{}%
+\contentsline {subsubsection}{Personality and Traits}{18}{}%
+\contentsline {subsubsection}{Relationships}{18}{}%
+\contentsline {subsubsection}{Pilch's Story}{18}{}%
+\contentsline {section}{Otoria Hearthrust}{20}{}%
+\contentsline {subsubsection}{Background}{20}{}%
+\contentsline {subsubsection}{Personality and Traits}{20}{}%
+\contentsline {subsubsection}{Relationships}{20}{}%
+\contentsline {subsubsection}{Otoria's Story}{20}{}%
+\contentsline {section}{Gary}{21}{}%
+\contentsline {subsubsection}{Background}{21}{}%
+\contentsline {subsubsection}{Personality and Traits}{21}{}%
+\contentsline {subsubsection}{Relationships}{21}{}%
+\contentsline {subsubsection}{Gary's Story}{21}{}%
+\contentsline {section}{Mark O'Synne}{22}{}%
+\contentsline {subsubsection}{Background}{22}{}%
+\contentsline {subsubsection}{Personality and Traits}{22}{}%
+\contentsline {subsubsection}{Relationships}{22}{}%
+\contentsline {subsubsection}{Mark's Story}{22}{}%
+\contentsline {section}{Radburny ``Burnie'' Cinders}{23}{}%
+\contentsline {subsubsection}{Background}{23}{}%
+\contentsline {subsubsection}{Personality and Traits}{23}{}%
+\contentsline {subsubsection}{Relationships}{23}{}%
+\contentsline {subsubsection}{Burnie's Story}{23}{}%
+\contentsline {section}{Smaud Myron}{24}{}%
+\contentsline {subsubsection}{Background}{24}{}%
+\contentsline {subsubsection}{Personality and Traits}{24}{}%
+\contentsline {subsubsection}{Relationships}{24}{}%
+\contentsline {subsubsection}{Myron's Story}{24}{}%
+\contentsline {section}{Martin Andleberger}{25}{}%
+\contentsline {subsubsection}{Background}{25}{}%
+\contentsline {subsubsection}{Personality and Traits}{25}{}%
+\contentsline {subsubsection}{Relationships}{25}{}%
+\contentsline {section}{Anthony K Tigerius III}{26}{}%
+\contentsline {subsubsection}{Background}{26}{}%
+\contentsline {subsubsection}{Personality and Traits}{26}{}%
+\contentsline {subsubsection}{Relationships}{26}{}%
+\contentsline {section}{Miscellaneous Characters}{27}{}%
+\contentsline {chapter}{\numberline {4}Gear}{33}{}%
+\contentsline {section}{The Airship Gary}{33}{}%
+\contentsline {subsubsection}{Background}{33}{}%
+\contentsline {subsubsection}{Functions}{33}{}%
+\contentsline {section}{S.T.A.N.R.I}{36}{}%
+\contentsline {subsubsection}{Background}{36}{}%
+\contentsline {subsubsection}{Functions}{36}{}%
+\contentsline {section}{The Armory}{37}{}%
+\contentsline {section}{Miscellaneous Items}{40}{}%
+\contentsline {chapter}{\numberline {5}Episodes}{42}{}%
+\contentsline {section}{Episode 1: Riphard Begins}{42}{}%
+\contentsline {subsection}{Episode 2: In the Tiki, Tiki, Tiki, Tiki, Tiki Room}{44}{}%
+\contentsline {subsection}{Episode 3: The Horse Whisperer}{45}{}%
+\contentsline {subsection}{Episode 4: Whores or Boars?}{47}{}%
+\contentsline {subsection}{Episode 5: Pitter Patter of Tiny Bears}{49}{}%
+\contentsline {subsection}{Episode 6: Arbitration}{50}{}%
+\contentsline {subsection}{Episode 7: Mysterious Incident of the Cow in the night}{52}{}%
+\contentsline {subsection}{Episode 8: Freaky Fishy}{52}{}%
+\contentsline {subsection}{Episode 9: Live Free or R.I.P. Hard (In loving memory of Lady Otoria Hearthrust)}{54}{}%
+\contentsline {subsection}{Episode 9.1: Kolo's Tale (Part 1): The Greasy Rage of Clan Stanri }{58}{}%
+\contentsline {subsection}{Episode 9.2: Kolo's Tale (Part 2): Snakes on a boat!}{59}{}%
+\contentsline {subsection}{Episode 9.3: Kolo's Tale (Part 3): Kiss Myasis}{61}{}%
+\contentsline {subsubsection}{Classy}{62}{}%
+\contentsline {subsubsection}{Awks}{62}{}%
+\contentsline {subsection}{Episode 10: A Pretzel of Pointless Adventures}{62}{}%
+\contentsline {subsection}{Episode 11: Voyagers of the Cloudship Nontaprise}{63}{}%
+\contentsline {subsection}{Episode 12: The Marshal Methias EP}{64}{}%
+\contentsline {subsection}{Episode 13: Nobody Expects the...}{65}{}%
+\contentsline {subsection}{Episode 14: Lemon Stealing Whore}{66}{}%
+\contentsline {subsection}{Episode 15: Just Dessert - and some bird people}{69}{}%
+\contentsline {subsection}{Episode 16: I'll Bite your facking face off}{71}{}%
+\contentsline {subsection}{Episode 17: Hopes Rest}{72}{}%
+\contentsline {subsection}{Episode 18: Why Do You Guild Me Up?}{74}{}%
+\contentsline {subsection}{Episode 19: Shopping Land Business Channel - Part 2}{76}{}%
+\contentsline {subsection}{Episode 20: Bizznizz for Banks \& Emancipation for the Few not the Many}{78}{}%
+\contentsline {subsection}{Episode 21: Of Kokaine and Kevlar}{80}{}%
+\contentsline {subsection}{Episode 22: Life and Sole of the Party}{82}{}%
+\contentsline {subsection}{Episode 23: Illegal Fake Goblin Ham Meat Ring}{83}{}%
+\contentsline {subsection}{Episode 24: The Brightest Flame Casts the Darkest Shadow}{85}{}%
+\contentsline {subsection}{Episode 25: Terrible Trebuchets and Tenatious Tiki-tuks}{88}{}%
+\contentsline {subsection}{Episode 26: Never Walk a Stone}{89}{}%
+\contentsline {section}{Episode 27: Making New Friends is Fun but Losing Mark is Funner}{91}{}%
+\contentsline {subsection}{Episode 28: Pets Win Prizes}{95}{}%
+\contentsline {section}{Episode 29: In a While, Crocodile}{95}{}%
+\contentsline {subsection}{Episode 30: Lessons in Colour Theory. and Dem BONES!}{99}{}%
+\contentsline {section}{Episode 31: NOTICE ME SENPAI!!!}{100}{}%
+\contentsline {subsection}{Episode 32: Difficulty level Spoopy}{104}{}%
+\contentsline {section}{Episode 33: I Aint Afraid of No... Semi-Sentient Discorporeal Energy Sources}{105}{}%
+\contentsline {subsection}{Episode 33.5a: Quantum Bookburners Creed: Special Child Meat Edition}{107}{}%
+\contentsline {subsection}{Episode 33.5b: Huey Shitpirate and the News}{107}{}%
+\contentsline {subsection}{Episode 33.5c: Two days from retirement}{108}{}%
+\contentsline {subsection}{Episode 33.75: Bobacious Takes On Chrismas}{110}{}%
+\contentsline {subsection}{Episode 34: Turning Masudese}{114}{}%
+\contentsline {section}{Episode 35: Lord of Lightning Shifts His Gaze}{117}{}%
+\contentsline {subsection}{Episode 36: Memories of Otario}{120}{}%
+\contentsline {section}{Episode 37: The Orcward Hunting Part}{121}{}%
+\contentsline {section}{Episode 39: Orcward}{122}{}%
+\contentsline {section}{Episode 41: For Fucks Saké}{126}{}%
+\contentsline {section}{Episode 43: Defenestrait to the Heart}{131}{}%
+\contentsline {section}{Episode 45: Bushido Kolo and the Unicorn that Lived}{133}{}%
+\contentsline {section}{Episode 47: Emancipation, Preparation, Consternation and Anticipation!}{136}{}%
+\contentsline {section}{Episode 48.5: Josie and the Hellcats}{138}{}%
+\contentsline {section}{Episode 49: Madness Reigns - In the Hall of the Mountain King}{141}{}%
+\contentsline {section}{Episode 51: Making a List}{145}{}%
+\contentsline {section}{Episode 53: Vaulted Feelings}{148}{}%
+\contentsline {section}{Episode 55: Breakfast Cat - Origins}{150}{}%
