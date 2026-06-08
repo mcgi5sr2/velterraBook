@@ -181,8 +181,9 @@ All sourced from `content/chars/miscCharacters.tex` unless otherwise noted.
 | **Freyer Thistlebloom** | SRA leader in Golding's Bay | Magical. Ensorcelled party into slaughtering temple villagers (ep 63). |
 | **Arbiter Khan** | Church enforcer | At Seven's Spire. Returned with two Inquisitor Ravagers. Danced fluidly through party. Head vaporised by Exme's linear accelerator, then stomped by STANRI (ep 80). |
 | **IRIS** | AI in Burnie's eye | Jive-talking AI. Shoots lasers, provides targeting data. Revealed ep 66. |
-| **Garbigail** | Gary Guild leader | Took over the Gary Guild in Hope's Rest while party was away (ep 50). |
-| **Rolltop Candian** | Police chief of Hope's Rest | Myron tried to warn him about Inquisitors; hit Myron with billy club (ep 66). |
+| **Garbigail/Abigail** | Gary Guild leader | Took over the Gary Guild in Hope's Rest while party was away (ep 50). Had chicken disease, saw Gary in a vision. Now leads Garys as pseudo-religious peace movement (ep 59). Slightly Scouse. Agreed to fight the good fight when told what Gary stood for. |
+| **Estebaun** | Assassin instructor | Former Book Burner colleague of Burnie's. Now works as instructor at Assassins Guild (ep 59). |
+| **Rolltop Candian/Kandian** | Police chief of Hope's Rest | Old friend of Myron's. Myron warned him about sewer goblin killer (ep 59). Hit Myron with billy club when warned about Inquisitors (ep 66). TWIST: Rolltop himself is the serial killer (ep 59 epilogue). |
 | **Konrad** | Robot maker | Has ~50 robots. Visited by party in Masuda for Hearthrust Society negotiations (ep 46). |
 | **Ralph Businessman** | Shoe sponsor | Offered party shoe sponsorship deal at Hope's Rest (ep 50). |
 | **Targon Hardthrust** | Riphard's uncle | Found in mines with arrow in belly (ep 49). Killed by feral Kolo (ep 53). |
@@ -463,7 +464,7 @@ Framed as VR time-travel via Mark's magic storm machine on the airship. Party in
 | 56 | New Arrivals | Riphard destoned. Dagenham (old friend) introduced. Anthony Tigerius joins party. Alien creatures from purple orbs with Canelon symbol. Dagenham dies in methane explosion. | `content/eps/56.tex` |
 | 57 | Excalibrum Found | Find Excalibrum pickaxes, runes, and EXCALIBRUM itself in mines. Lillith stays as dwarf diplomat. Myron destoned. Delilah about to give birth. | `content/eps/57.tex` |
 | 58 | Delilah's Twins | Anthony meets Lazarus. Return to Hope's Rest. DELILAH GIVES BIRTH to twins Bilbo and Dildo. Kolo confronts group in warehouse. Trayvon Jr (Burnie's bird-son) appears → reconciliation, becomes "Buck McCraw". | `content/eps/58.tex` |
-| 59 | Listing Heavily | EMPTY episode (title only). | `content/eps/59.tex` |
+| 59 | Listing Heavily | Gang fills out Myron's allies list. Visit Derek Bobacious (bank check-in). Visit Rolltop Kandian (police chief) — SRA in Golding's Bay, serial killer on the loose. Myron warns Rolltop the killer is a goblin in the sewers. Burnie finds printing press in sewers. Burnie hires assassin to kill an ant, finds Estebaun is still at Assassins Guild as instructor. Garys are now a pseudo-religious peace movement under Abigail. EPILOGUE: Rolltop Kandian IS the serial killer. | `content/eps/59.tex` |
 | 60 | New Abbergast | New Abbergast island. Lady Gharbighast. Merfolk conflict. Capture fish guard A-coon-eye. Meet King O-ssu-nai (Oceani). Anthony leads trade negotiations. | `content/eps/60.tex` |
 | 61 | Fish Arbitration | Fish peace talks. Must kill Acroneth The Immortal (aboleth) for peace. Prepare underwater weapons. | `content/eps/61.tex` |
 | 62 | Kill Acroneth | Fight and kill Acroneth (Aboleth). King Oceani becomes ally. Myron creates group flag. | `content/eps/62.tex` |

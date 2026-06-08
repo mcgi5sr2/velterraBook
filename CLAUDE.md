@@ -104,7 +104,6 @@ Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with des
 
 ### Remaining Work
 - Episodes 38-80 and 68a are plain text, not yet formatted as LaTeX — need wrapping in dndbook episode structure to compile
-- Episode 59 is empty (title only: "Listing Heavily")
 - Episode 80 notes: "NOTE WE NEED TO GRAB THE FINAL ENDING NOTES WHERE THEY BECOME DEMIGODS!!!" — final campaign ending not yet written up
 - Episodes are informal session recaps, not narrative prose — the players prefer the original voice
 - Some images still use placeholder files (xxx.png/xxx.jpg) — need real art
