@@ -103,13 +103,20 @@ Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with des
 - Locations: All Main Land locations (Hope's Rest, Vathos Boundary, Temple of Unthala, Riverfall, Seven's Spire, Logarsk, Great Expanse, Port Averdale, Tom'ardy Mountains, Linderdorf, New Abbergast, Golding's Bay, Varg Lands, Bright Bart Forge), plus Nanduan, Masuda, South Africa, Hell
 - Gods: All seven gods with descriptions, Synne filled in, Kalimar sidebar
 - Gear: Airship (with hyper-speed), STANRI, all weapons (CEDRIC, Godbringer, Black Sabbath, Iron Maiden, etc.), misc items (Puzzle Die with all functions, Inthun, Excalibrum, etc.)
-- World overview, background intro, cast page, cover
+- World overview, cast page, cover
+- Story chapter (background.tex): fully expanded with "About This Book" meta intro, "The World" setting overview, "The Mission" (Lazarus's deal), "The Five Strangers" (party intros with origTeam.png), full 14-arc campaign narrative (Arc I: Resurrection through Arc XIV: The Battle & The Spire), "In Memoriam" sidebar (all PC deaths/departures), "Campaign by Numbers" stats box, "Themes of the Campaign" sidebar
 
 ### Remaining Work
 - Episode 80 notes: "NOTE WE NEED TO GRAB THE FINAL ENDING NOTES WHERE THEY BECOME DEMIGODS!!!" — final campaign ending not yet written up (needs player input)
 - Some images still use placeholder files (xxx.png/xxx.jpg) — need real art (~30 references across episodes and 3 in weapons.tex)
 - Could add appendices for custom classes (noted in original TODOs, needs DM input)
 - LaTeX figure environments are nested oddly (figure inside center) throughout — works but not best practice
+
+### Ideas for Future Enrichment
+- **Campaign Timeline**: Chronological table of major events with in-world dates (if DM established any). Could go in Chapter 1 or Chapter 2 alongside world/locations.
+- **Glossary/Terminology Appendix**: In-world terms (Gabrins, CC, Sundering, Excalibrum, Emancipation, etc.) are documented in REFERENCE.md for AI use, but a printed glossary in the book would help human readers navigate the episodes.
+- **Character Relationships Section**: Diagram or table of connections — romances (Riphard/Delilah, Exme/Myron, Daisuke/Archibald, Burnie/Trayvon), mentorships (Burnie/Kevin), rivalries, family ties (goblin twins, Hardstone/Hardthrust dynasty, Myron's family).
+- **DM's Notes / Afterword**: Meta-commentary from Michael Williams on designing the campaign, memorable moments, what he'd do differently. Needs DM input but would be a brilliant capstone to the book.
 
 ## REFERENCE.md — Campaign Knowledge Base
 
@@ -136,6 +143,11 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 7. **Keep it updated**: When new content is added to the book (new characters, locations, items, etc.), update REFERENCE.md to keep it current.
 
 ## Change Log
+
+### 2026-06-09 (Session 4)
+1. Major expansion of background.tex (story chapter): rewrote from ~30-line intro to full campaign overview (~300 lines). Added "About This Book" meta section, "The World" setting overview, "The Mission" section with Lazarus DndReadAloud quote, "The Five Strangers" party introductions with origTeam.png image, and complete 14-arc campaign narrative prose (Resurrection through The Battle & The Spire). Added "In Memoriam" sidebar tracking all PC deaths/departures, "Campaign by Numbers" DndComment stats box, and "Themes of the Campaign" sidebar.
+2. Updated REFERENCE.md: added ✦ markers to all secondary characters with full book entries (Lark, Lillith, Arbigal, King Oceani, Dagenham, Buck McCraw, Google Von Maccherstein, Lady Gharbighast, Garbigail, Rolltop Kandian). Updated Synne gods entry (replaced "??? Domains unknown" with full details). Expanded weapon descriptions (Black Sabbath, Iron Maiden, Godbringer, Myron's Shield). Updated airship entry (bomb bays, Stonecast Mech cargo, STANRI systems).
+3. Updated CLAUDE.md: added story chapter to Complete list, added "Ideas for Future Enrichment" section (timeline, glossary, relationships, DM afterword).
 
 ### 2026-06-09 (Session 3)
 1. Converted all remaining plain-text episodes (50, 52, 54, 56-80, 68a) into proper LaTeX formatting
