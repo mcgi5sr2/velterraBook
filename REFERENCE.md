@@ -131,34 +131,34 @@ A comprehensive index of characters, locations, items, factions, lore, and episo
 
 ## Secondary Characters
 
-All sourced from `content/chars/miscCharacters.tex` unless otherwise noted.
+All sourced from `content/chars/miscCharacters.tex` unless otherwise noted. Characters with full write-ups in the book are marked with ✦.
 
 | Character | Role | Key Detail |
 |-----------|------|------------|
-| **Delilah Hardstone** | Jenny → Sky Captain of Tomorrow | Riphard's wife. Expert marksman. Had twins (Bilbo and Dildo, ep 58). Shot rainbows at shadow creatures. Head crushed by Kolo (ep 68). Soul went to Hell (confirmed by Lazarus, ep 69). |
-| **Lazarus** | Devil / Quest-giver | Bureaucratic devil in Hell. Red-skinned, wears human face mask. Recruited the party. Communicates via dreams and Stone of Unthala. Maintains war room with map of Velterra (ep 75). Oversees torture of Ruh'Breks (ep 75). Re-ascended to angel form after gods returned. |
-| **Arbiter Kiros** | Church Arbiter | Terrifying plate-armoured enforcer. Gradually allied with party. Captured by Church (doppelganger replaced him, ep 65). Found tortured on a rack in Seven's Spire prison (ep 80). Rescued by party. |
-| **Ruh'Breks / Ruh'Breks Sensei** | Ancient Sorcerer | Created the Puzzle Die and the airship. Mentored goblins through texts. Died protecting airship in Masuda, holding back mountain creature. Being tortured in Hell by Lazarus for intel on Kalimar (ep 75). |
-| **Derek Bobacious** | Elderly bachelor / Marketer | House in Riverfall became first bank. Ran Gary Guild marketing in Hope's Rest. Has daughter Amelia (ep 33-5d Christmas special). |
-| **Captain Stick** | Airship commander | Sentient wooden figurehead commanding The Gary. Straight and to-the-point leadership. |
-| **Archibald** | Elderly librarian | Near-blind. Tended abandoned Book Burner HQ alone. Makes decent bacon and eggs. Romance with Daisuke (ep 50 epilogue). |
-| **Meredith** | Lazarus's elephant butler | Creates portal doors between dimensions. Stood up Mark on prom night. |
-| **Trayvon** | Tengu Book Burner | Burnie's former colleague. Longest wingspan of any Book Burner. Had child with Burnie. Manic-depressive control freak. Dies "two days from retirement" (ep 33-5c). |
-| **Holly (Tower)** | Keeper of Tower of Imota Kan | Managed vaults and library in Riverfall. Hosted party at a social event. Taken hostage during Die Hard heist. |
-| **Daisuke** | Interpreter/fixer | Party's guide in Masuda. Mercenary but reliable. Called local lord "a dick". Sacrificed by Kolo to Kalimar in the mines (ep 54). Romance with Archibald (ep 50 epilogue). |
+| **Delilah Hardstone** ✦ | Jenny → Sky Captain of Tomorrow | Riphard's wife. Expert marksman. Had twins (Bilbo and Dildo, ep 58). Shot rainbows at shadow creatures. Head crushed by Kolo (ep 68). Soul went to Hell (confirmed by Lazarus, ep 69). Riphard descended into mannequin-wife delusion after her death. |
+| **Lazarus** ✦ | Devil / Quest-giver | Bureaucratic devil in Hell. Red-skinned, wears human face mask. Recruited the party. Communicates via dreams and Stone of Unthala. Maintains war room with map of Velterra (ep 75). Oversees torture of Ruh'Breks (ep 75). Re-ascended to angel form after gods returned. |
+| **Arbiter Kiros** ✦ | Church Arbiter | Terrifying plate-armoured enforcer. Gradually allied with party. Captured by Church (doppelganger replaced her, ep 65). Found tortured on a rack in Seven's Spire prison (ep 80). Rescued by Myron with beef jerky (ep 80). Unloaded rounds into Arbiter Khan. |
+| **Ruh'Breks / Ruh'Breks Sensei** ✦ | Ancient Sorcerer | Created the Puzzle Die and the airship. Mentored goblins through texts. Died protecting airship in Masuda, holding back mountain creature. Being tortured in Hell by Lazarus for intel on Kalimar (ep 75). |
+| **Derek Bobacious** ✦ | Elderly bachelor / Marketer | House in Riverfall became first bank. Ran Gary Guild marketing in Hope's Rest. Has daughter Amelia (ep 33-5d Christmas special). |
+| **Captain Stick** ✦ | Airship commander | Sentient wooden figurehead commanding The Gary. Straight and to-the-point leadership. |
+| **Archibald** ✦ | Elderly librarian | Near-blind. Tended abandoned Book Burner HQ alone. Makes decent bacon and eggs. Romance with Daisuke (ep 50 epilogue). |
+| **Meredith** ✦ | Lazarus's elephant butler | Creates portal doors between dimensions. Stood up Mark on prom night. |
+| **Trayvon** ✦ | Tengu Book Burner | Burnie's former colleague. Longest wingspan of any Book Burner. Had child with Burnie. Manic-depressive control freak. Dies "two days from retirement" (ep 33-5c). |
+| **Holly (Tower)** ✦ | Keeper of Tower of Imota Kan | Managed vaults and library in Riverfall. Hosted party at a social event. Taken hostage during Die Hard heist. |
+| **Daisuke** ✦ | Interpreter/fixer | Party's guide in Masuda. Mercenary but reliable. Called local lord "a dick". Sacrificed by Kolo to Kalimar in the mines (ep 54). Romance with Archibald (ep 50 epilogue). |
 | **Vu Dong** | Monkey companion | See Player Characters section above. |
 | **Diego Escabar** | Bandit leader | Led "Fancy Men" bandits. Party hunted him with Jennie help. |
 | **Hans** | Mercenary leader | Led the Die Hard heist at Tower of Imota Kan. |
-| **Lark** | Singing swordswoman | Killed Otoria with a katana during the Die Hard heist. |
+| **Lark** ✦ | Singing swordswoman | Killed Otoria with a katana during the Die Hard heist. Wielded Iron Maiden (reforged from Black Sabbath). |
 | **Razzle Backshine** | SRA leader | Gnome terrorist. Killed by party; replaced by Buttons. |
 | **Buttons** | New SRA leader | Installed by party after killing Razzle. |
 | **Marshall of Logarsk** | Corrupt Church official | Abusing children in church basement with the Inthun slab. Exposed by party. |
 | **Parchet Green** | GEO of Hope's Rest | Half-elf male. Stern, ruthless. All electoral opponents vanished. |
 | **Rowlett Marnett** | Head of Guild of Coin | Invested in Riphard's bank after being impressed by the pitch. |
 | **Mae Harkwood** | Leader of the Jennies | Runs the organisation from "Whorecity". Helped party track SRA and Diego. |
-| **Lillian/Lillith** | Half-elf Book Burner / Infiltrator | "Actually liked Pilch". Fled west after purge. Found in a barrel in Tom'ardy mines (ep 49). Stayed as dwarf diplomat after Excalibrum found (ep 57). Helped party escape mines (ep 54). Convinced Tom'ardy council to join alliance (ep 76). Disguised as pastor to infiltrate Seven's Spire (ep 78). Sets party free inside the Spire (ep 80). |
+| **Lillian/Lillith** ✦ | Half-elf Book Burner / Infiltrator | "Actually liked Pilch". Fled west after purge. Found in a barrel in Tom'ardy mines (ep 49). Stayed as dwarf diplomat after Excalibrum found (ep 57). Helped party escape mines (ep 54). Convinced Tom'ardy council to join alliance (ep 76). Disguised as pastor to infiltrate Seven's Spire (ep 78). Sets party free inside the Spire (ep 80). |
 | **Zippy** | Gnome Book Burner | Alcoholic. Survived the purge. |
-| **Arbigal** | Lazarus's boss in Hell | Used brutal underhanded management tactics. Corporate villain. |
+| **Arbigal** ✦ | Lazarus's boss in Hell | Used brutal underhanded management tactics. Corporate villain. |
 | **Spancer/Tengu** | Desert allies | Anti-Church group in the Great Expanse. Became allies during desert crossing. |
 | **Lady Imicho** | Masudan noble | Allied with party during Masuda civil war. |
 | **Romjiro** | Nobleman's son | Rescued during castle infiltration in Masuda. |
@@ -167,23 +167,23 @@ All sourced from `content/chars/miscCharacters.tex` unless otherwise noted.
 | **Tan'lata** | Goblin warrior (Kolo's Tale) | Deadly archer. War-criminal tendencies. In Grumpy Stanri's party. |
 | **Kri'igo / Kriigo** | Goblin barbarian (Kolo's Tale) | Rage-filled. Stanri's son. Fashion conscious. |
 | **Dev'lada / Devvy** | Goblin with weasel (Kolo's Tale) | Had a greasy weasel companion. Not very useful. |
-| **King Oceani / O-ssu-nai** | Underwater merfolk king | Allied with party after Acroneth killed (ep 62). Committed army to Hope's Rest battle (ep 77). Died at Battle of Hope's Rest, rallied troops as ghost (ep 79). |
-| **Dagenham** | Old friend of Riphard | Introduced ep 56. Dies in methane explosion in the mines. |
-| **Buck McCraw (Trayvon Jr)** | Burnie's half-Tengu son | Trains assassin students. Reconciled with Burnie (ep 58). Introduced Kevin to the party (ep 69). |
+| **King Oceani / O-ssu-nai** ✦ | Underwater merfolk king | Allied with party after Acroneth killed (ep 62). Fathered child with Lady Gharbighast (ep 77). Committed army to Hope's Rest battle (ep 77). Died at Battle of Hope's Rest singing a song, rallied troops as ghost (ep 79). |
+| **Dagenham** ✦ | Old friend of Riphard | Introduced ep 56. Dies in methane explosion in the mines. |
+| **Buck McCraw (Trayvon Jr)** ✦ | Burnie's half-Tengu son | Trains assassin students. Reconciled with Burnie (ep 58). Introduced Kevin to the party (ep 69). |
 | **Professor Jorge/Jeorj Myron** | Myron's father | Professor at Linderdorf University. Gnome tinker. Cockney accent. Remarried to Holly Dew (ep 74). Mother left him for another man, joined a cult destroyed by the Church (ep 74). |
 | **Holly Dew Myron** | Myron's stepmother | Halfling. Née Thistlebloom — father was ex-Book Burner killed in the purge Pilch caused. Has own business interests. Knows Exme and Burnie (ep 74). |
-| **Google Von Maccherstein** | Master blacksmith | Won the Blacksmith Cup with partners Märöck Grünhelvem and Jüppi Indelnacht. Based in Linderdorf. Went exploring Varg lands. Rescued from giants by party (ep 72). Forged Excalibrum weapons for party (ep 73-74). |
+| **Google Von Maccherstein** ✦ | Master blacksmith | Won the Blacksmith Cup with partners Märöck Grünhelvem and Jüppi Indelnacht. Based in Linderdorf. Went exploring Varg lands. Rescued from giants by party (ep 72). Forged Excalibrum weapons for party (ep 73-74). |
 | **Märöck Grünhelvem & Jüppi Indelnacht** | Gnome inventors/blacksmiths | Google's partners. Fixed the airship. Provided maps for Varg expedition. Not keen on personal danger. |
 | **Linus Brandler & Celina Speidel** | Workshop dwarves | Employed by Google's workshop. Joined the Varg expedition (ep 71). |
 | **Burnice** | Workshop dwarf assistant | At Google's workshop in Linderdorf. Provided route maps for the Varg (ep 70). |
-| **Lady Gharbighast / Dab'Agast** | Leader of New Abbergast | Ruler of island settlement. Pregnant with King Oceani's child (ep 77). Loyal to party alliance despite Church pressure. |
+| **Lady Gharbighast / Dab'Agast** ✦ | Leader of New Abbergast | Ruler of island settlement. Pregnant with King Oceani's child (ep 77). Loyal to party alliance despite Church pressure. |
 | **Acroneth The Immortal** | Aboleth | Underwater terror threatening merfolk. Killed by party to secure peace (ep 62). |
 | **Freyer Thistlebloom** | SRA leader in Golding's Bay | Magical. Ensorcelled party into slaughtering temple villagers (ep 63). |
 | **Arbiter Khan** | Church enforcer | At Seven's Spire. Returned with two Inquisitor Ravagers. Danced fluidly through party. Head vaporised by Exme's linear accelerator, then stomped by STANRI (ep 80). |
 | **IRIS** | AI in Burnie's eye | Jive-talking AI. Shoots lasers, provides targeting data. Revealed ep 66. |
-| **Garbigail/Abigail** | Gary Guild leader | Took over the Gary Guild in Hope's Rest while party was away (ep 50). Had chicken disease, saw Gary in a vision. Now leads Garys as pseudo-religious peace movement (ep 59). Slightly Scouse. Agreed to fight the good fight when told what Gary stood for. |
+| **Garbigail** ✦ | Gary Guild leader | Took over the Gary Guild in Hope's Rest while party was away (ep 50). Had chicken disease, saw Gary in a vision. Now leads Garys as pseudo-religious peace movement (ep 59). Slightly Scouse. Agreed to fight the good fight when told what Gary stood for. |
 | **Estebaun** | Assassin instructor | Former Book Burner colleague of Burnie's. Now works as instructor at Assassins Guild (ep 59). |
-| **Rolltop Candian/Kandian** | Police chief of Hope's Rest | Old friend of Myron's. Myron warned him about sewer goblin killer (ep 59). Hit Myron with billy club when warned about Inquisitors (ep 66). TWIST: Rolltop himself is the serial killer (ep 59 epilogue). |
+| **Rolltop Kandian** ✦ | Police chief of Hope's Rest | Old friend of Myron's. Myron warned him about sewer goblin killer (ep 59). Hit Myron with billy club when warned about Inquisitors (ep 66). TWIST: Rolltop himself is the serial killer (ep 59 epilogue). |
 | **Konrad** | Robot maker | Has ~50 robots. Visited by party in Masuda for Hearthrust Society negotiations (ep 46). |
 | **Ralph Businessman** | Shoe sponsor | Offered party shoe sponsorship deal at Hope's Rest (ep 50). |
 | **Targon Hardthrust** | Riphard's uncle | Found in mines with arrow in belly (ep 49). Killed by feral Kolo (ep 53). |
@@ -290,12 +290,12 @@ Sources: `content/gear/misc.tex`, `content/gear/weapons.tex`, `content/gear/theG
 | Weapon | Type | Description | Source |
 |--------|------|-------------|--------|
 | **C.E.D.R.I.C** | Sentient gun | "Collaborative Experimental Destruction and Rapid Immolation Contraption". Exme's electric railgun / linear accelerator. Improves perception, retargets shots, increases user speed. "Funny voice that makes me go all trembly." Vaporised Arbiter Khan's head (ep 80). | `content/gear/weapons.tex` |
-| **Godbringer** | Divine weapon | Forged from Excalibrum. Myron's primary weapon. Used to bisect the Stonecast Mech in the arena (ep 75). Designed to break the seal and harm Inthun-blessed. | `content/gear/weapons.tex` |
+| **Godbringer** | Divine weapon | Forged from Excalibrum by Google Von Maccherstein's team using Bright Bart Forge knowledge. Myron's primary weapon. Earned its name through role in returning the gods. Defining moment: Myron launched into the air and bisected the 30ft Stonecast Mech in Clawtech Arena, crowd erupting in chants of "Emancipation" (ep 75). | `content/gear/weapons.tex` |
 | **Hammer of the Gods** | Ancient weapon (gun) | Used by Zealot Arbiter Elron. Actually a gun that fires beams of pure iridescent light (ep 48, 73). Retrieved from Masuda. Riphard's primary ranged weapon. | `content/gear/weapons.tex` |
-| **Black Sabbath** | Shadow sword | Two-handed pronged shadow-blade. Pilch's weapon. | `content/gear/weapons.tex` |
-| **Iron Maiden** | Katana | Reforged from Black Sabbath. Originally felled Otoria. | `content/gear/weapons.tex` |
+| **Black Sabbath** | Shadow sword | Two-handed pronged shadow-blade forged from shadow sorcery and Stone of Unthala. Pilch's primary weapon. Could surge shadows for heavy damage but unstable, potentially poisoned wielder. Grew stronger as Pilch's corruption deepened. Reforged into Iron Maiden after Pilch's death. | `content/gear/weapons.tex` |
+| **Iron Maiden** | Katana | One-handed katana reforged from Black Sabbath. Wielded by Lark when she beheaded Otoria during Die Hard heist (ep 9a). Retained some magical properties but less potent after Pilch's death severed its shadow sorcery connection. | `content/gear/weapons.tex` |
 | **Bow of the Bastard** | Shortbow | Highly accurate. +3d6 to surprised targets. | `content/gear/weapons.tex` |
-| **Myron's Shield** | Shield | Arbiter symbol. Battle-scarred. | `content/gear/weapons.tex` |
+| **Myron's Shield** | Shield | Sturdy shield bearing Arbiter symbol. Carried throughout Masuda campaign and beyond. Bears scars of every encounter — orc axes to Inquisitor shadow-blades. | `content/gear/weapons.tex` |
 | **Shocking Gloves** | Gloves | Crafted from "Lord of Lightning". Deliver electric shock. Can stabilise dying creatures. | `content/gear/weapons.tex` |
 | **Wasabi** | Sword | Burnie's sword. | Episodes |
 | **Stone Dagger** | Dagger | Burnie's. Can soften and reshape stone surfaces on contact — used to seal Kalimar pit (ep 68) and doorways (ep 80). Multiple uses per day. | Episodes |
@@ -305,7 +305,7 @@ Sources: `content/gear/misc.tex`, `content/gear/weapons.tex`, `content/gear/theG
 
 | Item | Description | Source |
 |------|-------------|--------|
-| **The Airship Gary** | Party's primary base of operations. Discovered in Tower of Ruh'Breks. Modified with cannons, smoke screen, reinforced hull (ep 75). Can achieve hyper-speed via Puzzle Die plugged into ghost engine (ep 76). Named after Gary. Commanded by Captain Stick. Contains bar (running low on Bovril), workshop, crew quarters. | `content/gear/theGary.tex` |
+| **The Airship Gary** | Party's primary base of operations. Discovered in Tower of Ruh'Breks. Modified with cannons, bomb bays, smoke screen, reinforced hull, on-board workshop (Masuda/Linderdorf upgrades). Can achieve hyper-speed via Puzzle Die plugged into ghost engine (ep 76). Cargo hold modified to carry 30ft Stonecast Mech, dropped as siege weapon at Seven's Spire (ep 80). Named after Gary. Commanded by Captain Stick. S.T.A.N.R.I provides comms, navigation, analytical support. | `content/gear/theGary.tex` |
 | **S.T.A.N.R.I** | Exme's mecha-companion. Started as Mk 0 (small robo-cub with leaking human brain, destroyed ep 38). Upgraded to Mk I during Ruh'Breks tower siege. Rebuilt as tiger form "Stanri 2: Electric Baloogaloo" (ep 67), honouring Toni. Mecha-battlesuit mode — Exme climbs inside ("Stanrexme"). Has olfactory sensing, jet rockets, item analysis. Can be made invisible via divine cloak (ep 80). | `content/gear/STANRI.tex` |
 | **Korg** | Earth Elemental summoned from Puzzle Die (ep 73). Speaks common. Lifts heavy things. Gets sucked back into the cube. | Episodes |
 
@@ -324,7 +324,7 @@ Source: `content/story/theGods.tex`
 | **Vathos** | The Shield-Bearer, The Weathered Rock | Fortitude, Strength Against Adversity. Shield only. |
 | **Novetta** | The Arms-Bearer, The Consuming Fire | Valor, Fighting Evil, Vengeance. Bastard sword Fynyr. No armour. |
 | **Matreus** | The Standard-Bearer, The Tower on the Hill | Loyalty, Conviction. Deaf and blind, fights not knowing if allies remain. |
-| **Synne** | The Horseman, The Buried Spire | ??? (The "Eighth God"). Domains unknown. Mark of Synne carried by Pilch then Mark O'Synne. Church wants world to forget. |
+| **Synne** | The Horseman, The Buried Spire | The Eighth God. Domains shrouded in secrecy, followers viewed with suspicion. Church speaks only of Seven, wants world to forget him. Great Stone was originally "Stone of the Eight". Pilcheur bore the Mark of Synne (divine brand granting dark powers at terrible cost). Upon Pilch's death, manifested as Mark O'Synne — golden-haired avatar claiming to prevent the Sundering's worst consequences. Party labelled "Cult of Synne" by Church (ep 65). |
 | **Kalimar** | (Not a god — elder entity) | Master of warping flesh. Kolo became his servant. Souls absorbed by Kalimar don't go to Hell. Connected to Canilon/Canelon symbol (Inquisitor tattoos). | 
 | **Canilon/Canelon** | (Entity/symbol) | Symbol found on Inquisitors (ep 67), purple orbs (ep 56). Connected to Kalimar. Souls going missing (ep 65). |
 

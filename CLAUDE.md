@@ -96,18 +96,19 @@ Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with des
 ## Content Status
 
 ### Complete
-- All episode write-ups (eps 1–80, 9b–9d, 33-5a–d, 68a) — campaign goes to episode 80
-- Character pages for all main and secondary characters
-- World overview, gods, groups/factions, locations
-- Gear section (airship, STANRI, weapons, misc items)
-- Cast page and cover
+- All episode write-ups (eps 1–80, 9b–9d, 33-5a–d, 68a) — all formatted as LaTeX
+- All main character pages: Kolo, Exme, Riphard, Pilcheur, Otoria, Gary, Mark, Burnie, Myron, Toni, Martin — fully written with Background, Personality, Relationships, Story, and DndSidebar sections
+- All secondary characters in miscCharacters.tex: Delilah, Lazarus, Kiros, Kevin, Captain Stick, Vu Dong, Meredith, Trayvon, Ruh'Breks, Holly, Twins, Derek, King Oceani, Tiki Tuks, Garbigail, Arbigal, Daisuke, Archibald, Lillith, Dagenham, Google Von Maccherstein, Buck McCraw, Lady Gharbighast, Rolltop Kandian, Lark
+- Groups/factions: Church, Jennies, SRA, Book Burners, Gary Guild, Bank, Hearthrust Society, Inquisition, Varg, University of Assassins, Alliance Army, Hell Inc.
+- Locations: All Main Land locations (Hope's Rest, Vathos Boundary, Temple of Unthala, Riverfall, Seven's Spire, Logarsk, Great Expanse, Port Averdale, Tom'ardy Mountains, Linderdorf, New Abbergast, Golding's Bay, Varg Lands, Bright Bart Forge), plus Nanduan, Masuda, South Africa, Hell
+- Gods: All seven gods with descriptions, Synne filled in, Kalimar sidebar
+- Gear: Airship (with hyper-speed), STANRI, all weapons (CEDRIC, Godbringer, Black Sabbath, Iron Maiden, etc.), misc items (Puzzle Die with all functions, Inthun, Excalibrum, etc.)
+- World overview, background intro, cast page, cover
 
 ### Remaining Work
-- Episodes 38-80 and 68a are plain text, not yet formatted as LaTeX — need wrapping in dndbook episode structure to compile
-- Episode 80 notes: "NOTE WE NEED TO GRAB THE FINAL ENDING NOTES WHERE THEY BECOME DEMIGODS!!!" — final campaign ending not yet written up
-- Episodes are informal session recaps, not narrative prose — the players prefer the original voice
-- Some images still use placeholder files (xxx.png/xxx.jpg) — need real art
-- Could add appendices for custom classes (noted in original TODOs)
+- Episode 80 notes: "NOTE WE NEED TO GRAB THE FINAL ENDING NOTES WHERE THEY BECOME DEMIGODS!!!" — final campaign ending not yet written up (needs player input)
+- Some images still use placeholder files (xxx.png/xxx.jpg) — need real art (~30 references across episodes and 3 in weapons.tex)
+- Could add appendices for custom classes (noted in original TODOs, needs DM input)
 - LaTeX figure environments are nested oddly (figure inside center) throughout — works but not best practice
 
 ## REFERENCE.md — Campaign Knowledge Base
@@ -135,6 +136,18 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 7. **Keep it updated**: When new content is added to the book (new characters, locations, items, etc.), update REFERENCE.md to keep it current.
 
 ## Change Log
+
+### 2026-06-09 (Session 3)
+1. Converted all remaining plain-text episodes (50, 52, 54, 56-80, 68a) into proper LaTeX formatting
+2. Full refresh of all main character pages: rewrote Kolo, expanded Exme (full late-campaign arc, creations sidebar), expanded Riphard (Dagenham, twins, mannequin delusion, Northern Rock sidebar), expanded Pilcheur (Book Burner flashback revelations), expanded Otoria (Hearthrust Society legacy), expanded Gary (Garbigail takeover, Battle of Hope's Rest), expanded Mark (VR storm machine, Meredith prom), expanded Burnie (IRIS, stone dagger, mania, full late-campaign story), expanded Myron (family background, full story through Spire, Piece of Shit sidebar), rewrote Toni (from stub to full entry), rewrote Martin (from stub to full entry with Mr Mouse sidebar)
+3. Expanded miscCharacters.tex: updated Delilah (death), Kiros (capture/rescue), Kevin (expanded), King Oceani (full arc), Daisuke (sacrifice/romance), Archibald (romance), fixed Garbigail/Arbigal split. Added 7 new characters: Lillith, Dagenham, Google Von Maccherstein, Buck McCraw, Lady Gharbighast, Rolltop Kandian, Lark
+4. Expanded groups.tex: added Inquisition, Varg, University of Assassins, Alliance Army. Expanded Hearthrust Society and Hell Inc.
+5. Major locations.tex rewrite: expanded Hell, Hope's Rest (guild system), Vathos Boundary, Tom'ardy (Delvers/mines), Seven's Spire (full tower layout), Logarsk (Inthun), Great Expanse, Port Averdale. Added Linderdorf, New Abbergast, Golding's Bay, Varg Lands, Bright Bart Forge, Masuda
+6. Updated theGods.tex: filled in Synne entry, added Kalimar sidebar
+7. Updated weapons.tex: expanded CEDRIC, Godbringer (arena scene), Black Sabbath, Iron Maiden
+8. Updated misc.tex: expanded Puzzle Die (new functions table), Stone of Unthala, Slab of Inthun
+9. Updated theGary.tex: hyper-speed upgrade, Stonecast Mech cargo
+10. Updated CLAUDE.md and REFERENCE.md to reflect all changes
 
 ### 2026-06-08 (Session 2)
 1. Added 30+ new episode files (38, 40, 42, 44, 46, 48, 50, 52, 54, 56-80, 68a) — plain text, not yet LaTeX formatted
