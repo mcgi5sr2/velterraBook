@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.6.8)  8 JUN 2026 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.6.8)  9 JUN 2026 07:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1433,37 +1433,107 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--128
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--134
- [][] \T1/pbk/l/n/10 (+20) Episode 45: Bushido Kolo and the 
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+ [][] \T1/pbk/l/n/10 (+20) Episode 42: The House Where 
  []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 135.
+Package pdftex.def Info: img/paper.jpg  used on input line 136.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 135.
+Package pdftex.def Info: img/paper.jpg  used on input line 136.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 135.
+Package pdftex.def Info: img/paper.jpg  used on input line 136.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 135.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 136.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [3
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
+Overfull \hbox (1.4677pt too wide) in paragraph at lines 137--137
+ [][] \T1/pbk/l/n/10 (-20) Episode 44: Mul-ti-ple My-ron Re-cov-ery 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+ [][] \T1/pbk/l/n/10 (+20) Episode 45: Bushido Kolo and the 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
  [][] \T1/pbk/l/n/10 (+20) Episode 47: Eman-ci-pa-tion, Prepa-ra-tion, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--137
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
  [][] \T1/pbk/l/n/10 (+20) Episode 49: Mad-ness Reigns - In the 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+ [][] \T1/pbk/l/n/10 (+20) Episode 50: The Boys are Back in 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+ [][] \T1/pbk/l/n/10 (+20) Episode 52: Exme's Tube Saves 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+ \T1/pbk/l/n/10 (+20) the Day and Any-one Who 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+ \T1/pbk/l/n/10 (+20) Dis-agrees Prob-a-bly Fucks 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+ [][] \T1/pbk/l/n/10 (+2) Episode 54: Heart of Stone, Heart of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+ [][] \T1/pbk/l/n/10 (+20) Episode 62: Re-lease the (Good 
+ []
+
+
+Overfull \hbox (2.63794pt too wide) in paragraph at lines 163--163
+ [][] \T1/pbk/l/n/10 (-20) Episode 68a: Episode 68 Sup-ple-ment 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+ [][] \T1/pbk/l/n/10 (+20) Episode 69: Wel-come to the Shit Show 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+ [][] \T1/pbk/l/n/10 (+20) Episode 70: The Hunt for Google 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+ [][] \T1/pbk/l/n/10 (+20) Episode 75: How to Kill Gi-ant Robots 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+ [][] \T1/pbk/l/n/10 (+20) Episode 77: Dear Dairy: A Tale of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+ [][] \T1/pbk/l/n/10 (+20) Episode 78: The Old Man at the 
  []
 
 )
@@ -2946,7 +3016,7 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 40.90071pt (A);
 (lettrine.sty)             reported on input line 2.
-) (./content/eps/9.tex
+) (./content/eps/9a.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -2985,7 +3055,7 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
 (lettrine.sty)             reported on input line 2.
-) (./content/eps/91.tex
+) (./content/eps/9b.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -3059,7 +3129,7 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
 (lettrine.sty)             reported on input line 2.
-) (./content/eps/92.tex
+) (./content/eps/9c.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -3081,7 +3151,7 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
 (lettrine.sty)             reported on input line 2.
-) (./content/eps/93.tex
+) (./content/eps/9d.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -4096,12 +4166,12 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [106])
-(./content/eps/335a.tex
+(./content/eps/33-5a.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.52357pt (C);
 (lettrine.sty)             reported on input line 2.
-) (./content/eps/335b.tex
+) (./content/eps/33-5b.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.52357pt (W);
@@ -4127,12 +4197,13 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 3.
 ]
 LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <5> not available
 (Font)              Font shape `T1/pbk/l/n' tried instead on input line 8.
-) (./content/eps/335c.tex
+)
+(./content/eps/33-5c.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.47165pt (I);
 (lettrine.sty)             reported on input line 2.
-) (./content/eps/335d.tex
+) (./content/eps/33-5d.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -4171,7 +4242,8 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
 (lettrine.sty)             reported on input line 2.
-) (./content/eps/34.tex
+)
+(./content/eps/34.tex
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -4222,8 +4294,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-
-[112]
+ [112]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -4279,7 +4350,8 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 1.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [115]
+
+[115]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 1.
@@ -4413,28 +4485,66 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 10.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [121]) (./content/eps/39.tex
+ [121]) (./content/eps/38.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.21213pt (D);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 50.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 50.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 50.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 50.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [122]) (./content/eps/39.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.21213pt (D);
 (lettrine.sty)             reported on input line 5.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 18.
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 18.
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 18.
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 18.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 10.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [122]
+ [123]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 20.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [124]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 24.
@@ -4451,26 +4561,25 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 24.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [123]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+[125]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 30.
+Package pdftex.def Info: img/paper.jpg  used on input line 46.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 30.
+Package pdftex.def Info: img/paper.jpg  used on input line 46.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 30.
+Package pdftex.def Info: img/paper.jpg  used on input line 46.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 46.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [124]
+ [126]
 File: ./content/img/xxx.jpg Graphic file (type jpg)
 <use ./content/img/xxx.jpg>
 Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 62.
@@ -4479,6 +4588,9 @@ Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 62.
 Overfull \hbox (264.86961pt too wide) in paragraph at lines 62--65
  [] 
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -4496,81 +4608,121 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 67.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[125]) (./content/eps/41.tex
+ [127])
+(./content/eps/40.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 40.90071pt (A);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [128
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 72.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 72.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 72.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 72.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [129]) (./content/eps/41.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
 (lettrine.sty)             reported on input line 5.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 14.
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 14.
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 14.
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 14.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 10.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [126
+ [130]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 20.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [131]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [132]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 42.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 42.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 42.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 42.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 
-]
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 24.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 24.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 24.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 24.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [127]
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 36.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 36.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 36.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 36.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [128]
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 46.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 46.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 46.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 46.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [129]
+[133]
 File: ./content/img/xxx.jpg Graphic file (type jpg)
 <use ./content/img/xxx.jpg>
 Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 54.
@@ -4583,6 +4735,23 @@ Overfull \hbox (264.86961pt too wide) in paragraph at lines 54--57
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 57.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 57.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 57.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 57.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [134]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 59.
@@ -4599,13 +4768,54 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 59.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [130])
-(./content/eps/43.tex
+
+[135
+
+]) (./content/eps/42.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.21213pt (D);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 60.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [136
+
+]) (./content/eps/43.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.36784pt (R);
 (lettrine.sty)             reported on input line 14.
-
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 19.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 19.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 19.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 19.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [137]
 ! You can't use `macro parameter character #' in horizontal mode.
 l.24 ...ex save, and falls out the window. Splat #
                                                   2. At least the princess b...
@@ -4625,23 +4835,83 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 34.
+Package pdftex.def Info: img/paper.jpg  used on input line 36.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 34.
+Package pdftex.def Info: img/paper.jpg  used on input line 36.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 34.
+Package pdftex.def Info: img/paper.jpg  used on input line 36.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 34.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 36.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [131
+ [138])
+(./content/eps/44.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 37.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 37.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 37.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 37.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [139
 
-]
+]) (./content/eps/45.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.05644pt (L);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 10.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 10.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [140]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 22.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [141]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 36.
@@ -4658,50 +4928,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 36.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-
-[132
-
-]) (./content/eps/45.tex
-Package lettrine.sty Info: Targeted height = 41.41992pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 41.05644pt (L);
-(lettrine.sty)             reported on input line 5.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 20.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 20.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 20.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 20.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [133
-
-]
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 30.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 30.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 30.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [134]
+ [142]
 File: ./content/img/xxx.jpg Graphic file (type jpg)
 <use ./content/img/xxx.jpg>
 Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 46.
@@ -4712,7 +4939,7 @@ Overfull \hbox (264.86961pt too wide) in paragraph at lines 46--49
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -4730,8 +4957,47 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 51.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [135])
-(./content/eps/47.tex
+[143]) (./content/eps/46.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.21213pt (D);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 54.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [144
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 102.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 102.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 102.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 102.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [145]) (./content/eps/47.tex
 ! Argument of \textit  has an extra }.
 <inserted text> 
                 \par 
@@ -4753,23 +5019,21 @@ Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             reported on input line 5.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 22.
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 22.
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 22.
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 22.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 20.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[136
-
-]
+[146]
 File: ./content/img/xxx.jpg Graphic file (type jpg)
 <use ./content/img/xxx.jpg>
 Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 33.
@@ -4798,31 +5062,103 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 38.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [137])
-(./content/eps/48-5.tex
+ [147])
+(./content/eps/48.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 54.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [148
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 110.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 110.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 110.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 110.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [149]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 164.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 164.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 164.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 164.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [150]) (./content/eps/48-5.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 40.84879pt (H);
 (lettrine.sty)             reported on input line 5.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 28.
+Package pdftex.def Info: img/paper.jpg  used on input line 12.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 28.
+Package pdftex.def Info: img/paper.jpg  used on input line 12.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 28.
+Package pdftex.def Info: img/paper.jpg  used on input line 12.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 28.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 12.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [138
-
-]
+ [151]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [152]
 Overfull \hbox (12.85924pt too wide) in paragraph at lines 39--40
 []\T1/pbk/l/n/10 (-20) https://www.youtube.com/watch?v=qEdWvYA0icg  
  []
@@ -4835,6 +5171,9 @@ Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 46.
 Overfull \hbox (264.86961pt too wide) in paragraph at lines 46--49
  [] 
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -4852,7 +5191,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[139]
+ [153]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 51.
@@ -4869,7 +5208,8 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 51.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [140
+
+[154
 
 ]) (./content/eps/49.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
@@ -4892,7 +5232,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 18.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [141
+ [155
 
 ]
 File: img/paper.jpg Graphic file (type jpg)
@@ -4911,7 +5251,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [142]
+ [156]
 Overfull \hbox (0.52116pt too wide) in paragraph at lines 45--46
 \T1/pbk/l/n/10 (-20) https://www.youtube.com/watch?v=zf2aIVKp1OY  
  []
@@ -4944,7 +5284,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 55.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [143]
+ [157]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 57.
@@ -4962,32 +5302,87 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 57.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 
-[144
+[158
 
-]) (./content/eps/51.tex
+]) (./content/eps/50.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 14.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [159
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 26.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [160]) (./content/eps/51.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.41977pt (T);
 (lettrine.sty)             reported on input line 5.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 38.
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 38.
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 38.
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 38.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 26.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [145
-
-]
+ [161]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 48.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [162]
 File: ./content/img/xxx.jpg Graphic file (type jpg)
 <use ./content/img/xxx.jpg>
 Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 73.
@@ -4997,26 +5392,6 @@ Overfull \hbox (264.86961pt too wide) in paragraph at lines 73--76
  [] 
  []
 
-
-Underfull \vbox (badness 7415) has occurred while \output is active []
-
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 76.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 76.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 76.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 76.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [146]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 78.
@@ -5033,10 +5408,52 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 78.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[163]) (./content/eps/52.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 40.17406pt (M);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 18.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 18.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 18.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 18.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [164
 
-[147
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 24.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 24.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 24.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 24.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [165]
+Overfull \hbox (14.24509pt too wide) in paragraph at lines 29--30
+[]\T1/pbk/l/n/10 (-20) https://www.youtube.com/watch?v=AE1ct5yEuVY  
+ []
 
-]) (./content/eps/53.tex
+) (./content/eps/53.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 41.36784pt (R);
@@ -5046,6 +5463,23 @@ Overfull \hbox (1.42926pt too wide) in paragraph at lines 5--6
 \T1/pbk/l/n/10 (-20) set-tle-ments/shitholes/townships/smallerthanthat 
  []
 
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 16.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 16.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 16.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 16.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[166]
 File: ./content/img/xxx.jpg Graphic file (type jpg)
 <use ./content/img/xxx.jpg>
 Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 26.
@@ -5058,25 +5492,6 @@ Overfull \hbox (264.86961pt too wide) in paragraph at lines 26--29
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 29.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 29.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/paper.jpg Graphic file (type jpg)
-<use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 29.
-(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
-File: img/footerscroll.pdf Graphic file (type pdf)
-<use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 29.
-(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [148
-
-]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 31.
@@ -5093,10 +5508,48 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 31.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [167])
+(./content/eps/54.tex
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.36784pt (R);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 48.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [168
 
-[149
-
-]) (./content/eps/55.tex
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 98.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 98.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 98.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 98.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [169]) (./content/eps/55.tex
 Runaway argument?
 { Good news for once, 
 ! Paragraph ended before \text@command was complete.
@@ -5121,9 +5574,7 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 42.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[150
-
-]
+[170]
 ! Too many }'s.
 <recently read> \egroup 
                         
@@ -5132,38 +5583,38 @@ l.42 }
 ? 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 47.
+Package pdftex.def Info: img/paper.jpg  used on input line 45.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 47.
+Package pdftex.def Info: img/paper.jpg  used on input line 45.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 47.
+Package pdftex.def Info: img/paper.jpg  used on input line 45.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 47.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 45.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
-[151]
+[171]
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 59.
+Package pdftex.def Info: img/paper.jpg  used on input line 57.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 59.
+Package pdftex.def Info: img/paper.jpg  used on input line 57.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 59.
+Package pdftex.def Info: img/paper.jpg  used on input line 57.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 59.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 57.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [152]
+ [172]
 Overfull \hbox (14.76169pt too wide) in paragraph at lines 60--61
 []\T1/pbk/l/it/10 (-20) https://www.youtube.com/watch?v=RFyCPicGbXM  
  []
@@ -5180,7 +5631,7 @@ Overfull \hbox (264.86961pt too wide) in paragraph at lines 73--76
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 6332) has occurred while \output is active []
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
@@ -5198,38 +5649,1531 @@ File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
 Package pdftex.def Info: img/footerscroll.pdf  used on input line 78.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
- [153])
+ [173])
+(./content/eps/56.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.21213pt (D);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 38.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 38.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 38.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 38.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[174
+
+]) (./content/eps/57.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.36784pt (R);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 20.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 20.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[175]
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 50.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 50--53
+ [] 
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 55.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 55.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 55.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 55.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[176]) (./content/eps/58.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 40.17406pt (M);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 54.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 54.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[177
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 98.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 98.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 98.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 98.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [178]) (./content/eps/59.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 16.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 16.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 16.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 16.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[179]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 60.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [180]
+Overfull \hbox (27.48964pt too wide) in paragraph at lines 65--66
+[]\T1/pbk/l/it/10 (-20) r/https://www.youtube.com/watch?v=AIPGyKGuWeA  
+ []
+
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 70.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 70--73
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 75.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 75.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 75.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 75.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [181])
+(./content/eps/60.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 22.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[182
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 32.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 32.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 32.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 32.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [183]
+Overfull \hbox (17.11336pt too wide) in paragraph at lines 47--48
+[]\T1/pbk/l/it/10 (-20) https://www.youtube.com/watch?v=HwqQclvmC68  
+ []
+
+) (./content/eps/61.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.52357pt (W);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 6.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 6.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 6.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 6.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[184]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 42.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 42.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 42.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 42.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [185]
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 64.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 64--67
+ [] 
+ []
+
+
+Underfull \vbox (badness 7221) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 69.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 69.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 69.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 69.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [186])
+(./content/eps/62.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 40.90071pt (A);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 52.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[187
+
+]) (./content/eps/63.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 7.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 7.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 7.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 40.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 40.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 40.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 40.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[188]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 70.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 70.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 70.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 70.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [189]
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 122.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 122--125
+ [] 
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 125.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 125.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 125.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 125.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[190]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 127.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 127.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 127.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 127.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [191
+
+]) (./content/eps/64.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.47165pt (I);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 32.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 32.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 32.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 32.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[192
+
+]
+Overfull \hbox (19.07733pt too wide) in paragraph at lines 51--52
+[]\T1/pbk/l/it/10 (-20) https://www.youtube.com/watch?v=ExLqMBLyWd8  
+ []
+
+) (./content/eps/65.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 7.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 7.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 38.87642pt (P);
+(lettrine.sty)             reported on input line 7.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 26.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[193]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 52.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 52.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [194]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 82.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 82.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 82.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 82.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [195]
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 100.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 100--103
+ [] 
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 103.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[196]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 105.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 105.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 105.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 105.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [197
+
+]) (./content/eps/66.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+LaTeX Font Info:    Trying to load font information for OT1+RoyalIn on input li
+ne 3.
+LaTeX Font Info:    No file OT1RoyalIn.fd. on input line 3.
+
+LaTeX Font Warning: Font shape `OT1/RoyalIn/xl/n' undefined
+(Font)              using `OT1/cmr/m/n' instead
+(Font)              for symbol `textquotedblleft' on input line 3.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <51.90446> not available
+(Font)              size <24.88> substituted on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 17.27779pt (“);
+(lettrine.sty)             reported on input line 3.
+) (./content/eps/67.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.21213pt (D);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 14.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[198
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 62.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 62.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 62.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 62.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [199]
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 88.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 88--91
+ [] 
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 93.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 93.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 93.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 93.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[200]) (./content/eps/68.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Missing character: There is no [ in font RoyalIn!
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 0.0pt ([);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 60.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 60.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[201
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 114.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 114.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 114.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 114.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [202]) (./content/eps/68a.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.47165pt (I);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 14.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[203]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 26.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 26.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [204]) (./content/eps/69.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.47165pt (I);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 28.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 28.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 28.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 28.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[205]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 66.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 66.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 66.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 66.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [206]
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 90.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 90--93
+ [] 
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 95.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 95.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 95.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 95.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[207]) (./content/eps/70.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 64.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 64.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 64.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 64.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[208
+
+]) (./content/eps/71.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.21213pt (D);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 16.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 16.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 16.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 16.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[209]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 22.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 22.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [210]
+Overfull \hbox (8.68524pt too wide) in paragraph at lines 45--46
+[]\T1/pbk/l/it/10 (-20) https://www.youtube.com/watch?v=wZdZKolMIl0  
+ []
+
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 50.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 50--53
+ [] 
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 53.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 53.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 53.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 53.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[211]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 55.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 55.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 55.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 55.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [212
+
+]) (./content/eps/72.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.05644pt (L);
+(lettrine.sty)             reported on input line 3.
+) (./content/eps/73.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 14.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 14.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[213
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 38.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 38.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 38.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 38.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [214]
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 80.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 80--83
+ [] 
+ []
+
+
+Underfull \vbox (badness 7099) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 83.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 83.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 83.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 83.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [215]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 85.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 85.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 85.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 85.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+
+[216
+
+]) (./content/eps/74.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.52357pt (C);
+(lettrine.sty)             reported on input line 3.
+) (./content/eps/75.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.26405pt (S);
+(lettrine.sty)             reported on input line 5.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 6.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 6.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 6.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 6.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[217
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 18.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 18.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 18.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 18.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [218]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [219]
+Overfull \hbox (15.34953pt too wide) in paragraph at lines 31--32
+[]\T1/pbk/l/it/10 (-20) https://www.youtube.com/watch?v=8aQRq9hhekA  
+ []
+
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 36.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 36--39
+ [] 
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 41.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 41.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 41.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 41.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[220]) (./content/eps/76.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 41.41977pt (T);
+(lettrine.sty)             reported on input line 3.
+) (./content/eps/77.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 40.84879pt (E);
+(lettrine.sty)             reported on input line 5.
+
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 6.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 6.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 6.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 6.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [221
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 48.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+
+[222]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 116.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 116.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 116.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 116.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [223]
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 132.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 132--135
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 137.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 137.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 137.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 137.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [224])
+(./content/eps/78.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 40.90071pt (A);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 44.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 44.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 44.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 44.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[225
+
+]) (./content/eps/79.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 5.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 40.90071pt (A);
+(lettrine.sty)             reported on input line 5.
+File: ./content/img/xxx.jpg Graphic file (type jpg)
+<use ./content/img/xxx.jpg>
+Package pdftex.def Info: ./content/img/xxx.jpg  used on input line 46.
+(pdftex.def)             Requested size: 505.89pt x 505.90858pt.
+
+Overfull \hbox (264.86961pt too wide) in paragraph at lines 46--49
+ [] 
+ []
+
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 49.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 49.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 49.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 49.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[226]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 51.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 51.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 51.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 51.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [227
+
+]) (./content/eps/80.tex
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+
+LaTeX Font Warning: Font shape `T1/pbk/m/scit' undefined
+(Font)              using `T1/pbk/m/sc' instead on input line 3.
+
+Package lettrine.sty Info: Targeted height = 41.41992pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 40.84879pt (F);
+(lettrine.sty)             reported on input line 3.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 30.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 30.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[228
+
+]
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 48.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 48.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+ [229])
 
 Package caption Warning: Unused \captionsetup[table] on input line 23.
 See the caption package documentation for explanation.
 
-(./velterra.aux)
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 181.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 181.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/paper.jpg Graphic file (type jpg)
+<use img/paper.jpg>
+Package pdftex.def Info: img/paper.jpg  used on input line 181.
+(pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
+File: img/footerscroll.pdf Graphic file (type pdf)
+<use img/footerscroll.pdf>
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 181.
+(pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
+[230] (./velterra.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 27.02446pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 30428 strings out of 474222
- 628108 string characters out of 5748734
+ 31316 strings out of 474222
+ 646856 string characters out of 5748734
  1968975 words of memory out of 5000000
- 51507 multiletter control sequences out of 15000+600000
- 639156 words of font info for 314 fonts, out of 8000000 for 9000
+ 52241 multiletter control sequences out of 15000+600000
+ 644081 words of font info for 349 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  121i,19n,129p,15790b,1390s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bol
 d.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2
 -Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/urw/bookman/ubkdi8a.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
-/bookman/ubkli8a.pfb>
-Output written on velterra.pdf (159 pages, 56168445 bytes).
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/urw/bookman/ubkdi8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookma
+n/ubkli8a.pfb>
+Output written on velterra.pdf (236 pages, 56511097 bytes).
 PDF statistics:
- 662 PDF objects out of 1000 (max. 8388607)
- 391 compressed objects within 4 object streams
+ 917 PDF objects out of 1000 (max. 8388607)
+ 565 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 109896 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 110408 words of extra memory for PDF output out of 128383 (max. 10000000)
 

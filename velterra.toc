@@ -128,13 +128,48 @@
 \contentsline {section}{Episode 35: Lord of Lightning Shifts His Gaze}{117}{}%
 \contentsline {subsection}{Episode 36: Memories of Otario}{120}{}%
 \contentsline {section}{Episode 37: The Orcward Hunting Part}{121}{}%
-\contentsline {section}{Episode 39: Orcward}{122}{}%
-\contentsline {section}{Episode 41: For Fucks Saké}{126}{}%
-\contentsline {section}{Episode 43: Defenestrait to the Heart}{131}{}%
-\contentsline {section}{Episode 45: Bushido Kolo and the Unicorn that Lived}{133}{}%
-\contentsline {section}{Episode 47: Emancipation, Preparation, Consternation and Anticipation!}{136}{}%
-\contentsline {section}{Episode 48.5: Josie and the Hellcats}{138}{}%
-\contentsline {section}{Episode 49: Madness Reigns - In the Hall of the Mountain King}{141}{}%
-\contentsline {section}{Episode 51: Making a List}{145}{}%
-\contentsline {section}{Episode 53: Vaulted Feelings}{148}{}%
-\contentsline {section}{Episode 55: Breakfast Cat - Origins}{150}{}%
+\contentsline {subsection}{Episode 38: Worg'wan}{122}{}%
+\contentsline {section}{Episode 39: Orcward}{123}{}%
+\contentsline {subsection}{Episode 40: Gabrin Coming of Age}{128}{}%
+\contentsline {section}{Episode 41: For Fucks Saké}{130}{}%
+\contentsline {subsection}{Episode 42: The House Where They're Raising His Son}{136}{}%
+\contentsline {section}{Episode 43: Defenestrait to the Heart}{137}{}%
+\contentsline {subsection}{Episode 44: Multiple Myron Recovery Program}{139}{}%
+\contentsline {section}{Episode 45: Bushido Kolo and the Unicorn that Lived}{140}{}%
+\contentsline {subsection}{Episode 46: Love Self-Actually}{144}{}%
+\contentsline {section}{Episode 47: Emancipation, Preparation, Consternation and Anticipation!}{146}{}%
+\contentsline {subsection}{Episode 48: In The Hall of the Giant Mountain Lizard King}{148}{}%
+\contentsline {section}{Episode 48.5: Josie and the Hellcats}{151}{}%
+\contentsline {section}{Episode 49: Madness Reigns - In the Hall of the Mountain King}{155}{}%
+\contentsline {subsection}{Episode 50: The Boys are Back in Town}{159}{}%
+\contentsline {section}{Episode 51: Making a List}{161}{}%
+\contentsline {subsection}{Episode 52: Exme's Tube Saves the Day and Anyone Who Disagrees Probably Fucks Children}{164}{}%
+\contentsline {section}{Episode 53: Vaulted Feelings}{166}{}%
+\contentsline {subsection}{Episode 54: Heart of Stone, Heart of Darkness}{168}{}%
+\contentsline {section}{Episode 55: Breakfast Cat - Origins}{170}{}%
+\contentsline {subsection}{Episode 56: Ross dies in the end :'(}{174}{}%
+\contentsline {section}{Episode 57: A Miner Incident}{175}{}%
+\contentsline {subsection}{Episode 58: The Dark Crow Returns}{177}{}%
+\contentsline {section}{Episode 59: Listing Heavily}{179}{}%
+\contentsline {subsection}{Episode 60: Jumping the Shark}{182}{}%
+\contentsline {section}{Episode 61: Arbitroution}{185}{}%
+\contentsline {subsection}{Episode 62: Release the (Good Krack)en}{187}{}%
+\contentsline {section}{Episode 63: Short Change}{188}{}%
+\contentsline {subsection}{Episode 64: At Dawn We Plan!}{192}{}%
+\contentsline {section}{Episode 65: Night on the Town}{193}{}%
+\contentsline {subsection}{Episode 66: No catchy title...}{198}{}%
+\contentsline {section}{Episode 67: Inquisitair Jordans}{198}{}%
+\contentsline {subsection}{Episode 68: Kill Kolo}{201}{}%
+\contentsline {subsection}{Episode 68a: Episode 68 Supplement - Exme's Thoughts}{203}{}%
+\contentsline {section}{Episode 69: Welcome to the Shit Show (NOICE)}{205}{}%
+\contentsline {subsection}{Episode 70: The Hunt for Google Von Maccherstein}{208}{}%
+\contentsline {section}{Episode 71: Martin the Paranoid Android}{209}{}%
+\contentsline {subsection}{Episode 72: Ready Keddy Go}{213}{}%
+\contentsline {section}{Episode 73: ForgeMasters (Its a Sheffield thing)}{213}{}%
+\contentsline {subsection}{Episode 74: Of Mice and Mechs}{217}{}%
+\contentsline {section}{Episode 75: How to Kill Giant Robots and Influence People}{217}{}%
+\contentsline {subsection}{Episode 76: The Play's the Thing}{221}{}%
+\contentsline {section}{Episode 77: Dear Dairy: A Tale of Unbrielievable Loyalty and Bravery}{222}{}%
+\contentsline {subsection}{Episode 78: The Old Man at the Coconut Shy}{225}{}%
+\contentsline {section}{Episode 79: The Time Warp}{226}{}%
+\contentsline {subsection}{Episode 80: The End is Night}{228}{}%
