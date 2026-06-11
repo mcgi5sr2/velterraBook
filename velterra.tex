@@ -1,0 +1,181 @@
+\documentclass[letterpaper,twocolumn,openany]{dndbook}
+
+% Use babel or polyglossia to automatically redefine macros for terms
+% Armor Class, Level, etc...
+% Default output is in English; captions are located in lib/dndstring-captions.sty.
+% If no captions exist for a language, English will be used.
+%1. To load a language with babel:
+%	\usepackage[<lang>]{babel}
+%2. To load a language with polyglossia:
+%	\usepackage{polyglossia}
+%	\setdefaultlanguage{<lang>}
+\usepackage[english]{babel}
+%\usepackage[italian]{babel}
+% For further options (multilanguage documents, hypenations, language environments...)
+% please refer to babel/polyglossia's documentation.
+
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{stfloats}
+\usepackage{pdfpages}
+\usepackage{multicol}
+
+\captionsetup[table]{labelformat=empty,font={sf,sc,bf,},skip=0pt}
+
+\title{Velterra{} \\
+\large Sinners Never Sleep}
+\author{A Dungeons and Dragons Adventure}
+\date{2019/09/29}
+
+\begin{document}
+
+
+
+% I have no idea why this will not just update the first page and put the pdf in????  Maybe something to do with the background iamge that is already there
+
+%\includepdf[pages={1},pagecommand={},width=\textwidth]{./img/mockCover.pdf}
+
+\vspace*{-15mm}
+\hspace*{-117mm}
+\includegraphics{./img/mockCover2.pdf}
+
+\twocolumn
+
+\frontmatter
+
+\maketitle
+
+\input{content/cast.tex}
+
+\tableofcontents
+
+\mainmatter
+
+\onecolumn
+\chapter{The Story}
+\input{content/story/background.tex}
+\twocolumn
+\input{content/story/theGods.tex}
+\input{content/story/groups.tex}
+
+\onecolumn
+\chapter{The World of Velterra}
+\input{content/world/vel.tex}
+\input{content/world/locations.tex}
+
+\twocolumn
+\chapter{Characters}
+\input{content/chars/kolo.tex}
+\input{content/chars/exme.tex}
+\input{content/chars/riphard.tex}
+\input{content/chars/pilcheur.tex}
+\input{content/chars/otoria.tex}
+\input{content/chars/gary.tex}
+\input{content/chars/mark.tex}
+\input{content/chars/burnie.tex}
+\input{content/chars/myron.tex}
+\input{content/chars/martin.tex}
+\input{content/chars/toni.tex}
+\input{content/chars/miscCharacters.tex}
+
+\onecolumn
+\chapter{Gear}
+\input{content/gear/theGary.tex}
+\input{content/gear/STANRI.tex}
+\input{content/gear/weapons.tex}
+\input{content/gear/misc.tex}
+
+\onecolumn
+\chapter{Episodes}
+\input{content/eps/1.tex}
+\twocolumn
+\input{content/eps/2.tex}
+\input{content/eps/3.tex}
+\input{content/eps/4.tex}
+\input{content/eps/5.tex}
+\input{content/eps/6.tex}
+\input{content/eps/7.tex}
+\input{content/eps/8.tex}
+\input{content/eps/9a.tex}
+\input{content/eps/9b.tex}
+\input{content/eps/9c.tex}
+\input{content/eps/9d.tex}
+\input{content/eps/10.tex}
+\input{content/eps/11.tex}
+\input{content/eps/12.tex}
+\input{content/eps/13.tex}
+\input{content/eps/14.tex}
+\input{content/eps/15.tex}
+\input{content/eps/16.tex}
+\input{content/eps/17.tex}
+\input{content/eps/18.tex}
+\input{content/eps/19.tex}
+\input{content/eps/20.tex}
+\input{content/eps/21.tex}
+\input{content/eps/22.tex}
+\input{content/eps/23.tex}
+\input{content/eps/24.tex}
+\input{content/eps/25.tex}
+\input{content/eps/26.tex}
+\input{content/eps/27.tex}
+\input{content/eps/28.tex}
+\input{content/eps/29.tex}
+\input{content/eps/30.tex}
+\input{content/eps/31.tex}
+\input{content/eps/32.tex}
+\input{content/eps/33.tex}
+\input{content/eps/33-5a.tex}
+\input{content/eps/33-5b.tex}
+\input{content/eps/33-5c.tex}
+\input{content/eps/33-5d.tex}
+\input{content/eps/34.tex}
+\input{content/eps/35.tex}
+\input{content/eps/36.tex}
+\input{content/eps/37.tex}
+\input{content/eps/38.tex}
+\input{content/eps/39.tex}
+\input{content/eps/40.tex}
+\input{content/eps/41.tex}
+\input{content/eps/42.tex}
+\input{content/eps/43.tex}
+\input{content/eps/44.tex}
+\input{content/eps/45.tex}
+\input{content/eps/46.tex}
+\input{content/eps/47.tex}
+\input{content/eps/48.tex}
+\input{content/eps/48-5.tex}
+\input{content/eps/49.tex}
+\input{content/eps/50.tex}
+\input{content/eps/51.tex}
+\input{content/eps/52.tex}
+\input{content/eps/53.tex}
+\input{content/eps/54.tex}
+\input{content/eps/55.tex}
+\input{content/eps/56.tex}
+\input{content/eps/57.tex}
+\input{content/eps/58.tex}
+\input{content/eps/59.tex}
+\input{content/eps/60.tex}
+\input{content/eps/61.tex}
+\input{content/eps/62.tex}
+\input{content/eps/63.tex}
+\input{content/eps/64.tex}
+\input{content/eps/65.tex}
+\input{content/eps/66.tex}
+\input{content/eps/67.tex}
+\input{content/eps/68.tex}
+\input{content/eps/68a.tex}
+\input{content/eps/69.tex}
+\input{content/eps/70.tex}
+\input{content/eps/71.tex}
+\input{content/eps/72.tex}
+\input{content/eps/73.tex}
+\input{content/eps/74.tex}
+\input{content/eps/75.tex}
+\input{content/eps/76.tex}
+\input{content/eps/77.tex}
+\input{content/eps/78.tex}
+\input{content/eps/79.tex}
+\input{content/eps/80.tex}
+
+\end{document}
