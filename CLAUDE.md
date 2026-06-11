@@ -120,7 +120,7 @@ Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with des
 - The final battle with Canalon (post-ep 108) was never written up by the players — the book's written record ends with the party setting off to fight a god (needs player input)
 - The ep-80 demigod ascension itself is also only obliquely documented (ep 81 opens "We are gods to be")
 - Character pages (chars/*.tex) do not yet cover the eps 81-108 continuation (Exme's erasure, Kolo's return, Burnie's death, Myron's leadership, the airship's destruction); new-era characters (Erin, Bronwen, Gem, Mrs Ball, David, Valkar, Krankle) have no entries yet
-- Some images still use placeholder files (xxx.png/xxx.jpg) — need real art (~30 references across episodes and 3 in weapons.tex)
+- Some images still use placeholder files (xxx.png/xxx.jpg) — need real art (~21 episode references and 3 in weapons.tex; all matching reddit art has been placed)
 - Could add appendices for custom classes (noted in original TODOs, needs DM input)
 - LaTeX figure environments are nested oddly (figure inside center) throughout — works but not best practice
 
@@ -155,6 +155,14 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 7. **Keep it updated**: When new content is added to the book (new characters, locations, items, etc.), update REFERENCE.md to keep it current.
 
 ## Change Log
+
+### 2026-06-12 (Session 5, continued — image scrape)
+1. Scraped all images from r/Velterra posts (64 direct downloads; 12 were already in the repo under other names — confirmed by perceptual comparison; e.g. krokokolo.png = "Good night my sweet prince", koloShield.png = "Myron's New Shield", velterraMap.png = "Map as of Episode 71").
+2. Added 36 new images to content/img/reddit/ (resized to ≤2000px, ~26MB), each placed with its original post title as an italic caption.
+3. Replaced 5 episode placeholders (xxx.jpg): ep 39 (Myron vs. 15 Orcs), ep 49 (Deal with it), ep 59 (Map as of Ep 59), ep 69 (Half a World Between Us map), ep 71 (existing velterraMap.png).
+4. Added figures to episodes: 9a (A Hero's Grave), 9b (four Clan Stanri portraits), 9c (DeadlySeaSnake, Tree Octopodicus, Forest Death Hippo, Dane'O'Saurus), 9d (Gabrin life), 10 (Hope's Rest Times), 18 (Guild HQ, Humans need not apply), 19 (G-AMRC Apothecary, #exmelab selfie), 23 (MVG barrel), 26 (Goodnight Sweet Prince), 29 (inside the crocodile), 58/64 (campaign maps), 70 (Google's map), 72 (Colourblind Crashnic).
+5. Added art to character pages: Otoria (original Feb 2017 art), Exme (with gun), Pilch (10% more emo; Howlov; recovered-from-fire parchment), Riphard (mini ready to paint), Toni, Myron (Arbiter Smord art), Gary (Officer Djago). Book Burner's Mask added to groups.tex.
+6. Not retrievable: "Velterra - Where do you hail from?" (imgur, geo-blocked), "The Story so Far" imgur album, the Delilah Hardstone School reddit gallery, two GIFs (one converted: Book Burner's Mask), and subreddit-stylesheet images (%%dropbear%% etc.). 21 episode placeholders remain with no matching reddit art.
 
 ### 2026-06-12 (Session 5, continued — wiki augmentation)
 1. Scraped the full r/Velterra subreddit wiki (48 pages via old.reddit: quests, locations, NPCs, groups, knowledge, bestiary, magical items, character pages, research documents).
