@@ -156,6 +156,14 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 
 ## Change Log
 
+### 2026-06-12 (Session 5, continued — wiki augmentation)
+1. Scraped the full r/Velterra subreddit wiki (48 pages via old.reddit: quests, locations, NPCs, groups, knowledge, bestiary, magical items, character pages, research documents).
+2. New file content/world/archives.tex ("The Velterran Archives" section in Chapter 2): Chronicles of Rhu'Brex extract, the Vuthros pamphlet, Scraps of an Ancient Poem, the party's Magical Item Ledger (rumours table), the Quest Ledger, and the Bestiary of Velterra — all preserved verbatim from the wiki.
+3. weapons.tex: added The Stone Knife (full wiki description of Burnie's stone dagger).
+4. Character page merges from wiki: Burnie (Book Burner leadership, Killjoy hanging/faked death, Martha Mayfire, Battlemastermind style, full Augments and Arsenal subsection), Myron (full-legal-name sidebar), Mark (book imprisonment, Gary father-figure, Vu Dong champion trade, Meredith reconciliation), Pilch (itching bandaged arm, life-drain, crossbow Martha, killed by a Chuul, Quoth's white-raven rescue), Gary (built by the Ancients to protect; hacked down by TikkiTucks), Riphard (pastor's son, sheltered upbringing), Exme (gunpowder quote, healing salve), Otoria (eldest-child tradition).
+5. World merges: vel.tex (main continent named Valeria), locations.tex (Hope's Rest guild heads, Vathos Boundary proprietors, Hollie Granger nepotism, Logarsk Inquisition motive, Codie the tower caretaker), miscCharacters.tex (Lazarus Goldstein; "Minor Figures from the Party's Records" table: Gerard, Hans Gruber, Diego's death, Henry & Henri, Hestor's caravan, Boa Sab, Terry/Trevor, Codie, Arbiter Killjoy, Martha Mayfire, Lady Haremxes).
+6. Not merged (flagged): wiki lists Otoria's race bluntly as "Sex-bot" (book says "dwarven-crafted automaton"); "The Inscribed" faction page survives only as an edit-conflict error — name recorded in REFERENCE.md only; age discrepancies (wiki Riphard 43 vs book 58, Toni late-40s vs 42) left as the book had them.
+
 ### 2026-06-12 (Session 5)
 1. Scraped all 218 posts from r/Velterra (via RSS) and added the complete 2022 continuation: episodes 81–108 (28 new episodes, including the out-of-order ep 97 and the untitled ep 93 "Its the girth not the length"), converted verbatim to LaTeX in the established episode style.
 2. Added 13 interlude/supplement posts as new episode files: 4a (Kolos Plan, with comment thread), 15a (Pilch Journal), 22a–d (Musings on Sorcery/Lunch, Subjects please, Puzzle Die), 24a (Musings on Light), 40a (Church factions), 57a/58a (Adventures of Snark 1–2), 64a (Crumpled Parchment), 69a (We're all Synners here), 77-5 (Masudan Fan-Fiction, with comment thread).
