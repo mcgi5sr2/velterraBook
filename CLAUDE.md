@@ -47,11 +47,14 @@ content/
     weapons.tex       — Named weapons (C.E.D.R.I.C, Godbringer, etc.)
     misc.tex          — Misc items (Die of Ruh'Brex, Stone of Unthala, etc.)
   eps/
-    1.tex–80.tex      — Episode write-ups (session recaps, campaign goes to ep 80)
+    1.tex–108.tex     — Episode write-ups (session recaps; eps 81-108 are the 2022
+                        continuation, scraped from r/Velterra)
     9a.tex            — Die Hard Part 3 / Death of Otoria (formerly 9.tex)
     9b.tex–9d.tex     — Kolo's Tale (interlude episodes after Ep 9, formerly 91-93)
     33-5a–33-5d.tex   — Book Burner flashback episodes (formerly 335a-335d)
-    68a.tex           — Exme's Thoughts supplement
+    4a, 15a, 22a–d, 24a, 40a, 57a, 58a, 64a, 68a, 69a, 77-5.tex
+                      — Interlude/supplement posts (in-character journals, musings,
+                        side fiction, lore documents from r/Velterra)
     template.tex      — Unused episode template
   img/                — All character art, maps, item images
 img/                  — Cover and background images
@@ -85,18 +88,25 @@ All character files follow this template:
 ### Player-character mapping
 When a player's character died or departed, they rolled a new one:
 - **Stephen Harland**: Pilcheur Gamont → Mark O'Synne → Vu Dong → Burnie Cinders
-- **Stephen Reddish**: Kolo Kozolski → Toni The Tiger → Martin Andleberger
+- **Stephen Reddish**: Kolo Kozolski → Toni The Tiger → Martin Andleberger → Kolo (restored, eps 98+)
 - **Joshua Rodell**: Lady Otoria Hearthrust → Gary → Myron
-- **Jonathan Mann**: Exmerah Sliokzog (entire campaign)
-- **Richard Pugh**: Riphard Obsidian Hardstone (entire campaign)
+- **Jonathan Mann**: Exmerah Sliokzog (until erased from existence, ep 97)
+- **Richard Pugh**: Riphard Obsidian Hardstone (departs ~ep 100)
+
+The 2022 continuation (eps 81-108) added new players known only by reddit handle:
+/u/its_Samar and /u/Thrawien. New-era characters: Sgt Erin Devereux (dies ep 101),
+Bronwen (devil minder, ep 98+), Gem (silicate spacefarer, ep 102+), Bucky McCaw
+(joins ep 104, after Burnie dies ep 103).
 
 ### Campaign plot summary
 Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with destroying the Church of the Seven — which has sealed the gods away from the world and is sending too many innocent souls to Hell. The party retrieves the Stone of Unthala, travels to Hope's Rest, founds the Gary Guild and a bank, crosses deserts and seas, raids the Tower of Ruh'Breks (gaining an airship and the Puzzle Die), fights through the jungles of South Africa and the civil war of Masuda. They return to the dwarven mountains seeking Excalibrum — the only metal that can harm the Church's Inquisitors. Kolo falls to the elder entity Kalimar, murders Delilah, and is killed by Riphard. The party regroups in Linderdorf, forges Excalibrum weapons, wins a giant robot in an arena fight, and builds an alliance army. They assault the Seven's Spire to break the Great Stone's seal and return the gods to the world, becoming demigods in the process.
 
+**The Continuation (eps 81-108, played 2022)**: Four in-world years later, magic has returned but the gods stay distant. Lazarus — now ruling Hell as the Empire of the Eight — regathers the scattered party with new recruit Sgt Erin Devereux: the warlord Valkar Varg has made a pact with Kalimar and is brewing super-soldiers. The party infiltrates the Varg tribes, tracks Valkar north, and destroys Kalimar in his lava sanctum — Myron dies and is resurrected, Kolo is restored in a construct body, and Exmerah erases herself from existence with a forbidden wish. Then Kalimar's mate Canalon, an elder-god space dragon, descends and mind-controls the allied army and Hope's Rest. Erin (ep 101), Burnie (ep 103), Captain Stick and the airship Gary (ep 103) all fall against a githyanki Nautiloid. Myron leads the remnant (with devil Bronwen, spacefarer Gem and Bucky McCaw) by steam railway to Hope's Rest, heists the Black Rock bank vault, and claims the Armoury of Sin — the gear the god Sinn wore when he last fought Canalon. The written record ends at ep 108: "Well, we're off to fight a God." The final battle was never written up.
+
 ## Content Status
 
 ### Complete
-- All episode write-ups (eps 1–80, 9b–9d, 33-5a–d, 68a) — all formatted as LaTeX
+- All episode write-ups (eps 1–108, 9b–9d, 33-5a–d, plus interludes 4a, 15a, 22a–d, 24a, 40a, 57a, 58a, 64a, 68a, 69a, 77.5) — all formatted as LaTeX. Eps 81–108 and the interludes were scraped verbatim from r/Velterra (June 2026)
 - All main character pages: Kolo, Exme, Riphard, Pilcheur, Otoria, Gary, Mark, Burnie, Myron, Toni, Martin — fully written with Background, Personality, Relationships, Story, and DndSidebar sections
 - All secondary characters in miscCharacters.tex: Delilah, Lazarus, Kiros, Kevin, Captain Stick, Vu Dong, Meredith, Trayvon, Ruh'Breks, Holly, Twins, Derek, King Oceani, Tiki Tuks, Garbigail, Arbigal, Daisuke, Archibald, Lillith, Dagenham, Google Von Maccherstein, Buck McCraw, Lady Gharbighast, Rolltop Kandian, Lark
 - Groups/factions: Church, Jennies, SRA, Book Burners, Gary Guild, Bank, Hearthrust Society, Inquisition, Varg, University of Assassins, Alliance Army, Hell Inc.
@@ -107,7 +117,9 @@ Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with des
 - Story chapter (background.tex): fully expanded with "About This Book" meta intro, "The World" setting overview, "The Mission" (Lazarus's deal), "The Five Strangers" (party intros with origTeam.png), full 14-arc campaign narrative (Arc I: Resurrection through Arc XIV: The Battle & The Spire), "In Memoriam" sidebar (all PC deaths/departures), "Campaign by Numbers" stats box, "Themes of the Campaign" sidebar
 
 ### Remaining Work
-- Episode 80 notes: "NOTE WE NEED TO GRAB THE FINAL ENDING NOTES WHERE THEY BECOME DEMIGODS!!!" — final campaign ending not yet written up (needs player input)
+- The final battle with Canalon (post-ep 108) was never written up by the players — the book's written record ends with the party setting off to fight a god (needs player input)
+- The ep-80 demigod ascension itself is also only obliquely documented (ep 81 opens "We are gods to be")
+- Character pages (chars/*.tex) do not yet cover the eps 81-108 continuation (Exme's erasure, Kolo's return, Burnie's death, Myron's leadership, the airship's destruction); new-era characters (Erin, Bronwen, Gem, Mrs Ball, David, Valkar, Krankle) have no entries yet
 - Some images still use placeholder files (xxx.png/xxx.jpg) — need real art (~30 references across episodes and 3 in weapons.tex)
 - Could add appendices for custom classes (noted in original TODOs, needs DM input)
 - LaTeX figure environments are nested oddly (figure inside center) throughout — works but not best practice
@@ -143,6 +155,14 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 7. **Keep it updated**: When new content is added to the book (new characters, locations, items, etc.), update REFERENCE.md to keep it current.
 
 ## Change Log
+
+### 2026-06-12 (Session 5)
+1. Scraped all 218 posts from r/Velterra (via RSS) and added the complete 2022 continuation: episodes 81–108 (28 new episodes, including the out-of-order ep 97 and the untitled ep 93 "Its the girth not the length"), converted verbatim to LaTeX in the established episode style.
+2. Added 13 interlude/supplement posts as new episode files: 4a (Kolos Plan, with comment thread), 15a (Pilch Journal), 22a–d (Musings on Sorcery/Lunch, Subjects please, Puzzle Die), 24a (Musings on Light), 40a (Church factions), 57a/58a (Adventures of Snark 1–2), 64a (Crumpled Parchment), 69a (We're all Synners here), 77-5 (Masudan Fan-Fiction, with comment thread).
+3. Wired all 41 new files into velterra.tex (now 130 episode inputs); book builds clean at 306 pages.
+4. Updated REFERENCE.md: continuation episode index (81–108), interludes index, arcs 15–19 + revised endgame, PC status updates (Exme erased ep 97, Kolo restored ep 98, Burnie dies ep 103, Myron leads, Riphard departs ep 100, Martin fades), new PC entries (Erin, Bronwen, Gem), New Era characters/factions/locations/items tables.
+5. Confirmed eps 7 (Inflatable Cow), 13 (Fritzls Basement), 48-5 (Josie), 33-5d (Bobacious), 9b–d (Kolo's Tale) already in the book under different titles; skipped meta/admin posts (e.g. "Fixing Revised Ranger" homebrew — possible appendix material).
+
 
 ### 2026-06-09 (Session 4)
 1. Major expansion of background.tex (story chapter): rewrote from ~30-line intro to full campaign overview (~300 lines). Added "About This Book" meta section, "The World" setting overview, "The Mission" section with Lazarus DndReadAloud quote, "The Five Strangers" party introductions with origTeam.png image, and complete 14-arc campaign narrative prose (Resurrection through The Battle & The Spire). Added "In Memoriam" sidebar tracking all PC deaths/departures, "Campaign by Numbers" DndComment stats box, and "Themes of the Campaign" sidebar.

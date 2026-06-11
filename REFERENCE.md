@@ -23,26 +23,26 @@ A comprehensive index of characters, locations, items, factions, lore, and episo
 
 ### Kolo "Toure" Kozolski
 - **Player**: Jonathan Mann (shared with Exme)
-- **Race/Class**: Goblin Rogue/Ranger | **Age**: 8 | **Status**: Dead (ep 68)
+- **Race/Class**: Goblin Rogue/Ranger | **Age**: 8 | **Status**: Dead (ep 68); restored in a construct body (ep 98), active through ep 108
 - **Source**: `content/chars/kolo.tex`
-- **Episodes**: 1-55, 9b-9d (Kolo's Tale narrator)
-- **Summary**: Exme's twin brother. Boisterous, light-fingered thief. The face of the goblin duo. Spoke Tikki Tuck, Goblin, and Low Velterran. Passionate about goblin emancipation (by the blade). Called Pilcheur "Pilchard"/"Fishy". Sacrificed Daisuke to Kalimar in the mines (ep 54), disappeared into darkness. Found massively mutated in Hope's Rest sewers — one giant arm, wings, fungus-covered. Killed Delilah by crushing her head (ep 68). Strangled to death by Riphard with a whip. Soul trapped with the god Kalimar, not in Hell.
+- **Episodes**: 1-55, 9b-9d (Kolo's Tale narrator), 98-108 (returned)
+- **Summary**: Exme's twin brother. Boisterous, light-fingered thief. The face of the goblin duo. Spoke Tikki Tuck, Goblin, and Low Velterran. Passionate about goblin emancipation (by the blade). Called Pilcheur "Pilchard"/"Fishy". Sacrificed Daisuke to Kalimar in the mines (ep 54), disappeared into darkness. Found massively mutated in Hope's Rest sewers — one giant arm, wings, fungus-covered. Killed Delilah by crushing her head (ep 68). Strangled to death by Riphard with a whip. Soul trapped with the god Kalimar, not in Hell. CONTINUATION: His soul was among tens of thousands inside Kalimar (ep 96). After Kalimar's destruction, Exmerah's forbidden wish restored him in a constructed/robotic body — he cannot eat, is nicknamed "Mr Robot" (ep 98) — at the cost of her own existence. Rejoined the party with Exme's posthumous gift, a mechanical bow (ep 98), and fought through to the Black Rock heist (eps 104-108).
 - **Key moments**: Temple of Unthala (ep 1-3), Die Hard heist (ep 7-9a), founding Gary Guild (ep 13-15), Kolo's Tale storytelling (ep 9b-9d), goes feral in the mines (ep 53), sacrifices Daisuke to Kalimar (ep 54), "Help me" note to Exme (ep 68), kills Delilah (ep 68), death by Riphard's whip (ep 68)
 
 ### Exmerah "Exme" Sliokzog
 - **Player**: Jonathan Mann
-- **Race/Class**: Goblin Artificer | **Age**: 8 | **Status**: Active (entire campaign)
+- **Race/Class**: Goblin Artificer | **Age**: 8 | **Status**: Erased from existence (ep 97)
 - **Source**: `content/chars/exme.tex`
-- **Episodes**: 1-80
-- **Summary**: Kolo's twin sister. Inventive genius who built STANRI, CEDRIC (electric railgun), and various devices. Softly spoken but fierce in combat. Founded the "Delilah Hardstone Engineering School for Talented Yung Wimun". On-off romance with Myron (documented in her novelette "Love Doesn't Have a Height Limit"). Discovered dogs are men and cats are women. After Kolo's death, left the group in grief (ep 68-69), leaving Burnie the Puzzle Die with a note: "I thought I could have both of you." Rejoined around Linderdorf (ep 74). Discovered the Puzzle Die can locate the source of the seal — it's at Seven's Spire (ep 75). Plugged the cube into the airship's ghost engine for hyper-speed travel (ep 76). Rebuilt STANRI as tiger form (ep 67).
+- **Episodes**: 1-97
+- **Summary**: Kolo's twin sister. Inventive genius who built STANRI, CEDRIC (electric railgun), and various devices. Softly spoken but fierce in combat. Founded the "Delilah Hardstone Engineering School for Talented Yung Wimun". On-off romance with Myron (documented in her novelette "Love Doesn't Have a Height Limit"). Discovered dogs are men and cats are women. After Kolo's death, left the group in grief (ep 68-69), leaving Burnie the Puzzle Die with a note: "I thought I could have both of you." Rejoined around Linderdorf (ep 74). Discovered the Puzzle Die can locate the source of the seal — it's at Seven's Spire (ep 75). Plugged the cube into the airship's ghost engine for hyper-speed travel (ep 76). Rebuilt STANRI as tiger form (ep 67). CONTINUATION: Post-timeskip she was a broken drunk obsessed with Kalimar and saving Kolo, running her girls' school (ep 81). She rigged Kalimar's spawn-eggs with dynamite (ep 96) and detonated them in the final battle (ep 97). Her forbidden wish resurrected Myron and restored Kolo at the price of erasing herself from every plane of existence (eps 97-98, confirmed ep 105). Her school — the Delilah Hardstone School For Exceptionally Gifted Girls to Excel in Engineering and Emancipation — thrives, headed by Stanri.
 - **Key moments**: Building STANRI (ongoing), discovering Otoria is a robot (ep 9a), STANRI mecha-form upgrade (Masuda arc), stops time to save babies during Kolo's rampage (ep 68), leaves group (ep 68-69), rejoins at Linderdorf (ep 74), discovers seal source location via cube (ep 75), covers STANRI in meat and Burnie's hair as disguise (ep 78)
 
 ### Riphard Obsidian Hardstone
 - **Player**: Richard Pugh
-- **Race/Class**: Dwarf Pastor | **Age**: 58 | **Status**: Active (entire campaign)
+- **Race/Class**: Dwarf Pastor | **Age**: 58 | **Status**: Departed (~ep 100, investigating with the Jennies)
 - **Source**: `content/chars/riphard.tex`
-- **Episodes**: 1-80
-- **Summary**: Gun-toting, whip-wielding dwarf pastor. Former Church believer whose faith was shattered by resurrection from Hell. Founded Northern Rock bank in Derek's house (Riverfall) and later the Guild of Banking in Hope's Rest. Married Delilah (a Jenny), had twin children (Bilbo and Dildo). Killed Kolo with his whip after Kolo murdered Delilah (ep 68). After Delilah's death, descended into delusion — kept a mannequin corpse-wife and two sacks of rotten pork he believed were his children (ep 76). Hammer of the Gods is actually a gun/ancient weapon (ep 48). Family dynasty: Hardstones/Hardthrusts from Tom'ardy Mountains.
+- **Episodes**: 1-100
+- **Summary**: Gun-toting, whip-wielding dwarf pastor. Former Church believer whose faith was shattered by resurrection from Hell. Founded Northern Rock bank in Derek's house (Riverfall) and later the Guild of Banking in Hope's Rest. Married Delilah (a Jenny), had twin children (Bilbo and Dildo). Killed Kolo with his whip after Kolo murdered Delilah (ep 68). After Delilah's death, descended into delusion — kept a mannequin corpse-wife and two sacks of rotten pork he believed were his children (ep 76). Hammer of the Gods is actually a gun/ancient weapon (ep 48). Family dynasty: Hardstones/Hardthrusts from Tom'ardy Mountains. CONTINUATION: Post-timeskip a bored mega-banker running Black Rock in Hope's Rest and raising his twins (ep 81). Decapitated the "Pope of Skeleton Giants" and inherited the title (ep 83). Survived Kalimar, then slipped away in Jecede leaving a note that he was investigating with the Jennies (ep 100).
 - **Key moments**: Founding the bank (eps 5-6, 13), marrying Delilah, acquiring Hammer of the Gods in Masuda, returning to Tom'ardy Mountains (ep 51-53), killing Kolo (ep 68), delusion with mannequin wife/pork children (ep 76), kills the Inquisitor with Excalibrum (ep 67), kills Aspect of the Storm (ep 73)
 
 ### Pilcheur "Pilch" Gamont
@@ -86,19 +86,19 @@ A comprehensive index of characters, locations, items, factions, lore, and episo
 
 ### Radburny "Burnie" Cinders
 - **Player**: Stephen Harland (character 4 of 4)
-- **Race/Class**: Human (Dwarf-raised) Book Burner | **Age**: 60 | **Status**: Active
+- **Race/Class**: Human (Dwarf-raised) Book Burner | **Age**: 60s | **Status**: Dead (ep 103)
 - **Source**: `content/chars/burnie.tex`
-- **Episodes**: ~34 onwards
+- **Episodes**: ~34-103
 - **Summary**: Human raised by dwarven parents on a farm. Survived the Book Burner purges. Former teacher at University of Assassins. Has a half-Tengu son Buck McCraw (formerly Trayvon Jr, ep 58) who trains assassin students. Faked his own death. Mark O'Synne trapped in his arm. Wields sword Wasabi. IRIS AI built into his eye (ep 66) — shoots lasers and provides targeting. Has student/mentee Kevin. Parents joined the airship as babysitters (ep 69). Grouchy but friendly underneath. Stone dagger can seal surfaces (ep 68, 80). Has episodes of book-burning mania (ep 80).
-- **Key moments**: Arrival tracking Pilch (ep 33-5d), fighting the four-armed abomination (ep 55), reconciliation with bird-son Buck McCraw (ep 58), IRIS revealed (ep 66), seals Kalimar summoning pit with stone dagger (ep 68), takes Kevin as student (ep 69), book-burning rampage in Seven's Spire (ep 80)
+- **Key moments**: Arrival tracking Pilch (ep 33-5d), fighting the four-armed abomination (ep 55), reconciliation with bird-son Buck McCraw (ep 58), IRIS revealed (ep 66), seals Kalimar summoning pit with stone dagger (ep 68), takes Kevin as student (ep 69), book-burning rampage in Seven's Spire (ep 80), founded the public Fishy Library (ep 81), swallowed whole by Kalimar and sustained only by Synne's power while dragging the fallen back from death (ep 97), torn limb from limb charging Canalon's elder brain alone aboard the Nautiloid (ep 103) — head cremated on a pyre, farewell letter delivered to son Buck (ep 104)
 
 ### Smaud Myron
 - **Player**: Joshua Rodell (character 3 of 3)
-- **Race/Class**: Gnome Arbiter | **Age**: 80 | **Status**: Active
+- **Race/Class**: Gnome Arbiter | **Age**: 80s | **Status**: Active — party leader from ep 103
 - **Source**: `content/chars/myron.tex`
-- **Episodes**: ~27-80
+- **Episodes**: ~27-108
 - **Summary**: Church Arbiter (warrior-enforcer). Most competent fighter the group has ever seen. Wields gun with bayonet, later wields Godbringer (Excalibrum weapon). Was involved in the purge of the Book Burners decades ago. Makes beef jerky, invented cocktail "Piece of Shit" (sherry, grenadine, bovril). Romantic tension with Exme. Pragmatic and disciplined. Father is Professor Jorge Myron of Linderdorf University (gnome tinker). Stepmother Holly Dew Myron (née Thistlebloom, halfling). Real first name is Smord. Turned to stone by Gorgons (ep 53), destoned (ep 57). Told Exme "This is all your fault" after Kolo's death (ep 68). Prayer to all gods on hilltop before final assault (ep 78).
-- **Key moments**: Hot air balloon entrance (ep 27), Lord of Lightning hunt, thrown Julieto out window then dying and being revived (ep 34), turned to stone (ep 53), destoned (ep 57), "This is all your fault" to Exme (ep 68), reunites with father in Linderdorf (ep 73-74), destroys Stonecast Mech with Godbringer (ep 75), hilltop prayer to all gods (ep 78), rescues Kiros with beef jerky (ep 80)
+- **Key moments**: Hot air balloon entrance (ep 27), Lord of Lightning hunt, thrown Julieto out window then dying and being revived (ep 34), turned to stone (ep 53), destoned (ep 57), "This is all your fault" to Exme (ep 68), reunites with father in Linderdorf (ep 73-74), destroys Stonecast Mech with Godbringer (ep 75), hilltop prayer to all gods (ep 78), rescues Kiros with beef jerky (ep 80), drills an arbiter army at the ruined Spire post-timeskip (ep 81), wins bare-knuckle duel vs tiger-monk Zelat (ep 86), killed by Kalimar — stabbed through the chest, beyond revivify (ep 97), resurrected by Exmerah's wish (ep 98), splits the Ulitharid with Erin's glaive (ep 101), accepts leadership after Burnie's death (ep 103)
 
 ### Anthony K. Tigerius III ("Toni")
 - **Player**: Stephen Reddish (character 2 of 3)
@@ -110,11 +110,11 @@ A comprehensive index of characters, locations, items, factions, lore, and episo
 
 ### Martin Andleberger
 - **Player**: Stephen Reddish (character 3 of 3)
-- **Race/Class**: Construct Bard/Sorcerer | **Age**: 87 | **Status**: Active (sometimes a mouse)
+- **Race/Class**: Construct Bard/Sorcerer | **Age**: 87+ | **Status**: Faded out (~ep 99, after Kolo's return)
 - **Source**: `content/chars/martin.tex`
-- **Episodes**: 71-80
+- **Episodes**: 71-99
 - **Summary**: Construct (craftwerk) from Linderdorf. Built to be a fighting butler for the Andelberger family (ancient aristocrats predating the Sundering). Family destroyed by the Inquisition; Martin has wandered for nearly a century. Claims he can't die. Has cable-hand for grappling. Can transform into mouse form. Found beaten by Varg bearkin (ep 71), rescued by Kevin. Most attached to Burnie. Stutters (fixed by electric shock). Has been teaching Myron vocabulary in his sleep. Made deal with Lazarus (ep 73). Face and skin partly metal. Built new weapons/exoskeletons for party. Fights inside the giant Stonecast Mech. Has "imaginary girlfriend in Nanduan".
-- **Key moments**: Found chained up by bearkin in Varg (ep 71), cable-hand rescue of Kevin (ep 71), deal with Lazarus (ep 73), fights Aspect of the Storm (ep 73), arena fight in Stonecast Mech (ep 75), teaching Myron words in sleep, invisible bear disguise at Seven's Spire (ep 80)
+- **Key moments**: Found chained up by bearkin in Varg (ep 71), cable-hand rescue of Kevin (ep 71), deal with Lazarus (ep 73), fights Aspect of the Storm (ep 73), arena fight in Stonecast Mech (ep 75), teaching Myron words in sleep, invisible bear disguise at Seven's Spire (ep 80), post-timeskip Inquisitor-hunter and professor at Exme's school (ep 81), exploded into pieces by Buchra and reassembled (ep 85), feeblemind by Malkior — "feeling like a mouse" (ep 91), destroyed and revived at Kalimar (ep 97), fades from the story once Kolo returns (same player)
 
 ### Kevin
 - **Player**: Not a PC — NPC companion
@@ -122,6 +122,24 @@ A comprehensive index of characters, locations, items, factions, lore, and episo
 - **Episodes**: 69-80
 - **Summary**: Final-year PhD student from University of Assassins. Introduced by Buck McCraw (Burnie's bird-son) as promising student needing field experience (ep 69). Writes formal report-letters to "Professor McCaw". Unhealthily abusive mentor relationship with Burnie. Enjoys developing poison immunity and fantasy RPGs. Christopher Mintz-Plasse energy. Connects with Thieves Guild networks for intel. Survived giant fight (ep 72), Aspect of Storm (ep 73). Substituted gravy for Bovril in Myron's cocktails without detection (ep 71).
 - **Key moments**: Appears from shadows (ep 69), Myron throws bottles at his head, salutes Captain Stick, falls out of Hell window (ep 69), stealth recon across episodes, collapses in Varg cold (ep 71), climbs on storm giant (ep 72), Bovril substitution (ep 71)
+
+### Sgt Erin Devereux (new era)
+- **Player**: New player, reddit handle /u/its_Samar
+- **Race/Class**: Human soldier/paladin (glaive) | **Status**: Dead (ep 101)
+- **Episodes**: 81-101
+- **Summary**: Sergeant from the carnival city of Jecede; sole survivor of the recon team sent to the Varg, saved when the gods answered her dying friend Reggie's sacrifice (ep 85). Joined the regathered party to stop the Varg/Kalimar super-soldiers. Haunted by survivor guilt and, increasingly, by a hostile intrusive inner voice that grew disdainful of party and gods alike (eps 85-93). Swallowed whole by a guardian naga and cut free (ep 91). Made head of all Jecede's armies (ep 99). Killed aboard the Nautiloid — brain eaten by the Ulitharid mind flayer (ep 101); cremated with Burnie (ep 103). Her parents Calista and Michelle Devereaux run the Midnight Pearl cabaret in Jecede.
+
+### Bronwen (new era)
+- **Player**: New-era party member (devil minder)
+- **Race/Class**: Devil (7ft, golden-eyed, Welsh accent) | **Status**: Active
+- **Episodes**: 98-108
+- **Summary**: Sent by Hell (Empire of the Eight) after the Kalimar battle to keep the party on track (ep 98). Flying-sword fighter and healer. Her darkness broke the Ulitharid's mass mind control (ep 101); revived Myron repeatedly aboard the Nautiloid (ep 102). Scryed Canalon atop the Hope's Rest guildmasters' hall — and it looked back (ep 100).
+
+### Gem (new era)
+- **Player**: New-era party member
+- **Race/Class**: Silicate woman from space | **Age**: ~500 | **Status**: Active
+- **Episodes**: 102-108
+- **Summary**: Freed from a holding cell aboard the Nautiloid (ep 102). Her people were created at the moment Canalon was cast out; she is an "observer" breaking protocol by intervening. Wields a bow that folds into a violin; psychic powers. Polymorphed the bank Arcanist into a clockwork bobbin (ep 107). Befriended the sewer octopod Badunkadonk (ep 106).
 
 ### Kolo Kozolski (original)
 - **Player**: Stephen Reddish (character 1 of 3)
@@ -188,6 +206,27 @@ All sourced from `content/chars/miscCharacters.tex` unless otherwise noted. Char
 | **Ralph Businessman** | Shoe sponsor | Offered party shoe sponsorship deal at Hope's Rest (ep 50). |
 | **Targon Hardthrust** | Riphard's uncle | Found in mines with arrow in belly (ep 49). Killed by feral Kolo (ep 53). |
 
+### New Era Characters (eps 81-108)
+
+| Character | Role | Key Detail |
+|-----------|------|------------|
+| **Mrs Ball** | Sentient sphere of infinitely dense metal | Wears a pink bow; serves an "ALLMOTHER"; can restore broken universes (ep 84 epilogue). Original perishes; a more confident successor appears (ep 94) and kills Kalimar with her biggest-ever bonk (ep 97). |
+| **David** | Myron and Exmerah's adopted teenage tailor son | Makes the school uniforms. Helps fly the airship into the falling Nautiloid to save Jecede (ep 103). |
+| **Valkar Varg / Val Kar Varg** | Warlord of the unified Varg | Made a pact with Kalimar; brews super-soldiers from his goo ("the Trials" — 99 in 100 die). Rides a giant eagle. Declares the invasion of the south (ep 88). Flees the battlefield when Canalon descends (ep 98); fate unresolved. |
+| **Krankle / Krankl** | Goblin alchemist | Tormented Kolo and Exmerah as children in the Varg. Studied the Kalimel goo for Valkar; hired by the party (gold, protection, dark-haired white women) to brew the antidote instead (ep 92). |
+| **Valklondar** | Lich/wizard | Ancient undead-master researching stasis, in a trapped mine east of Erdun's Well. Killed when crab-polymorphed Myron slams him into Mrs Ball (ep 84). |
+| **Magrat** | Giant chieftain of the Chesney Hawks tribe | Once beheaded a leader in one pull. Eats a man whole, witnessed only by Riphard (ep 89). Indifferent to the party's confessed coup plot. |
+| **Zelat, Buchra, Krum, Eric, Ragnor, Vesh** | Chesney Hawks tribespeople | Tiger monk (duels Myron, ep 86), snow leopard (explodes Martin, ep 85), goatkin, half-giant (eaten by a boreworm, ep 88), hunter, fire mage. |
+| **Malkior** | Bestial lieutenant of Valkar | Monkey-beast commanding fire ants; feebleminds Martin. Flayed to mist by Myron and Martin's whirlwind (ep 91). |
+| **Jeremiah** | Amnesiac stasis-tube survivor | Believes he is a 24-year-old apprentice. Dies on impact in Valklondar's games room (ep 83). |
+| **Reggie** | Ghost of Erin's fallen comrade | His sacrifice led the gods to save Erin. Dwells in her dogtags, then rides inside Martin (ep 96); an exorcism fails. |
+| **Shroomy** | Sentient Kalimar-worshipping mushroom colony | Guest narrator of ep 95, writing in Burnie's stolen diary. |
+| **Calista & Michelle Devereaux** | Erin's parents | Run the Midnight Pearl cabaret in Jecede (ep 99). |
+| **Lord Commander Eric** | Head of the Jecede army | Convinced by the party that Hope's Rest has fallen; makes Erin head of all armies (ep 99). |
+| **Arbiter Giros** | Scarred female arbiter | Leads Myron's special forces; made joint Lord Commander for the Hope's Rest campaign (eps 104-105). |
+| **Badunkadonk** | Telepathic octopod/kraken | Lives in the Hope's Rest sewers. Befriended by Gem; shot at by Kolo, causing a standoff (eps 106-107). |
+| **Aracia & Zarathrustra** | Adam-ants tribeswoman and her spider | Befriended by Exme (ep 88); the Adam-ants later ambush the party and are wiped out (ep 89). |
+
 ### Book Burner Flashback Characters (eps 33-5a to 33-5d)
 
 | Character | Role |
@@ -224,6 +263,11 @@ Source: `content/story/groups.tex`
 | **The Chris Guild** | Gave away free toys with hidden debt contracts. Run by Amelia Bobacious and Quith. Destroyed by Gary Guild operatives. | Chris Mas, Amelia, Quith | ep 33-5d |
 | **Cult of Annihilators** | Mentioned by tortured arcanist. Connected to sphere of annihilation. | Various | ep 33-5c |
 | **Alliance Army** | Coalition assembled for final battle: Gary Guild, Jennies, assassins (clockwork ninjas), Tom'ardy dwarves, Linderdorf robots/cannons, New Abbergast fishmen, Hope's Rest commoners. | All allies | eps 76-79 |
+| **Empire of the Eight** | Lazarus's reorganised Hell (new era), run on mountains of paperwork. Its divine power bursts Kalimar's spawn. Sends Bronwen to mind the party (ep 98). | Lazarus, Bronwen | eps 81-108 |
+| **Pact Warriors / Kalimar Super-Soldiers** | Varg champions transformed by drinking Kalimar goo in "the Trials" (99 in 100 die). Valkar's shock troops for the invasion of the south. | Valkar Varg | eps 81-92 |
+| **Varg Tribes (new era)** | Named after pop acts: Chesney Hawks (Magrat's tribe, infiltrated by party), Adam-ants (wiped out ep 89), Tears for Fears, Bowies, Genesis, Queen (historical). | Magrat, Zelat | eps 85-89 |
+| **Githyanki / Mind Flayers** | Nautiloid invaders serving Canalon. Ulitharid eats Erin's brain (ep 101); elder brain (Canalon-controlled) kills Burnie (ep 103). Ship destroyed crashing into the sea. | Ulitharid, Elder Brain | eps 100-103 |
+| **Gazzakhstan / Gazhikstan** | Name of the party's eastern empire/alliance whose armies fight the Varg, then fall under Canalon's mind control (1 in 100 resist, and die). | — | eps 81, 96-98 |
 
 ---
 
@@ -266,6 +310,18 @@ Sources: `content/world/vel.tex`, `content/world/locations.tex`
 | **Fukaniro** | City in Masuda. Civil war location. | Masuda campaign | ~35-47 |
 | **Thundertree** | Ruined goblin emancipation town (Kolo's Tale). Destroyed by humans from Church of Hemotate. | Kolo's Tale Part 3 | ep 9d |
 
+### New Era Locations (eps 81-108)
+
+| Location | Description | Key Events | Episodes |
+|----------|-------------|------------|----------|
+| **Jecede (Je'cede)** | Western coastal carnival city, Erin's home. Rival half-elf princes (DuPont and Marseille families), council of thirteen, army, navy, dark elf tensions. | Rallied against Canalon; Nautiloid attack; railway departure | 98-105 |
+| **The Midnight Pearl** | Cabaret/brothel in Jecede run by Erin's parents, Calista and Michelle Devereaux. Dancers pray to "Lady Delilah". | Party's night out | 99-100 |
+| **Kalimar's Lair / Ice Temple** | Temple in a giant ice sheet in the far north, descending through ratman hives, fungal spore forests and flesh tunnels to a lava sanctum — the bowels of a god. | Kalimar killed; Exmerah erased | 93-97 |
+| **Black Rock** | Riphard's post-timeskip mega-bank in Hope's Rest — towers of gold, silver and bronze. Successor to Northern Rock. Its deep vault hides the Armoury of Sin behind automatons and ancient puzzles. | The Last Heist | 81, 105-108 |
+| **The Fishy Library** | Burnie's public successor to the Book Burners' secret library, with printing press. | Founded post-timeskip | 81 |
+| **Jecede Railway** | Maiden-voyage steam railway, "the speed of 30,000 horses". (A prototype Hyperloop between Lindedorf and Hope's Rest is also mentioned, ep 85.) | Army transport; Inquisitor roof-fight | 104-106 |
+| **Erdun's Well** | Settlement near the abandoned mine where the regathered party hunts Valklondar. | Warm-up mission | 81-84 |
+
 ---
 
 ## Items & Gear
@@ -284,6 +340,11 @@ Sources: `content/gear/misc.tex`, `content/gear/weapons.tex`, `content/gear/theG
 | **Assassin's Teapot** | Item | Teapot with secret poison chamber. Self-producing poison. 5d10 damage or 1d6 poison to weapons. | `content/gear/misc.tex` |
 | **Stonecast Mech** | War machine | 30ft giant robot with flamethrower and laser cannon on each arm. "Stone metal" construction. Won by party in Clawtech Arena battle (ep 75). Modified with mouse-sized cockpit for Martin. Dropped from airship at Seven's Spire as distraction (ep 80). | Episodes 74-75, 80 |
 | **IRIS** | AI system | Built into Burnie's eye. Jive-talking personality. Shoots lasers, provides targeting/scan data. Revealed ep 66. | Episodes 66+ |
+| **Armoury of Sin / Sin's Armaments** | Divine gear | Helm, sword, armour, shield, pendant (rest-granting) and two nets worn by the god Sinn when he last fought Canalon. Hidden beneath the Black Rock vault behind acid pots, skull locks and a mural riddle about wise Kimicho. Claimed ep 108. | Episodes 105-108 |
+| **Kalimel (Kalimar goo) & antidote** | Substance | Kalimar's goo brews Varg super-soldiers (99 in 100 die in "the Trials"). Krankl engineered a controllable version for Valkar and brews the party's antidote (ep 92). Exme carried a vial she hoped would cure Kolo (ep 94). | Episodes 81-94 |
+| **Kolo's Mechanical Bow** | Weapon | Exmerah's posthumous gift to Kolo, with cabled power pack. Found ep 98, debuts in the train-roof fight (ep 106). | Episodes 98+ |
+| **Rings of Mind Shielding & Jetpacks** | Equipment | Lazarus's gifts to protect against Canalon's mind control and reach Hope's Rest (ep 104). | Episodes 104+ |
+| **The Nautiloid** | Living ship | Gith/illithid vessel that attacked Jecede. Its crash was deflected into the sea by the airship Gary at the cost of Captain Stick and the airship itself (ep 103). | Episodes 100-103 |
 
 ### Weapons
 
@@ -488,6 +549,61 @@ Framed as VR time-travel via Mark's magic storm machine on the airship. Party in
 | 79 | The Time Warp | THE BATTLE OF HOPE'S REST. Alliance army (Abbergast fishmen, Hope's Rest guard, Gary Guild, assassins, Tom'ardy dwarves, Linderdorf robots/cannons) vs Church army. Church cavalry slaughters fishmen. King Oceani dies, returns as ghost to rally troops. Dwarves hold centre. Robots save left flank. Garys suffer heavy casualties. Church forces eventually flee. | `content/eps/79.tex` |
 | 80 | The End is Night | SEVEN'S SPIRE INFILTRATION. Lillith frees party. Fight through guard floors. Burnie has book-burning rampage (kills sherry-drinking cleric). Stonecast Mech and ninja eagles wreaking havoc outside. Find prison level — tortured prisoners, Kiros rescued (fed beef jerky by Myron). Martin tries to kill Kiros before being stopped. Arbiter Khan killed (Exme's linear accelerator + STANRI stomp). Disguise as Inquisitors. Ascending toward pinnacle. TBC — "NOTE WE NEED TO GRAB THE FINAL ENDING NOTES WHERE THEY BECOME DEMIGODS!!!" | `content/eps/80.tex` |
 
+### The Continuation (eps 81-108)
+
+Played 2022 after a real-world hiatus (2019-2022); in-world, four years have passed since the fall of the Seven's Spire. Magic has returned and the gods weakly answer prayers. New players joined (reddit handles /u/its_Samar, /u/Thrawien). The final battle with Canalon (after ep 108) was never written up.
+
+| Ep | Title | Summary | File |
+|----|-------|---------|------|
+| 81 | One more time with passion | Four-year timeskip: the party has scattered — Myron drills an arbiter army at the ruined Spire, Riphard runs the Black Rock bank and raises his twins, Exmerah is a broken drunk obsessed with Kalimar and Kolo at her girls' school, Martin hunts inquisitors, Burnie has gone half-mad aboard the airship. Lazarus (now ruling Hell as the "Empire of the Eight") regathers them, introducing Sgt Erin Devereux, sole survivor of a recon team sent to the Varg — the Varg are making Kalimar-pact super-soldiers. David (Myron and Exme's adopted teenage tailor son) and Mrs Ball debut. Warm-up mission: an undead-controlling wizard in a mine east of Erdun's Well. | `content/eps/81.tex` |
+| 82 | Mission Report | Told as Sgt E. Devereux's mission report: deeper into the granite mine, fighting shadows and a mound of flesh. They find Jeremiah, a confused old man from a malfunctioning stasis tube who thinks he is 24. Decoding red wall-lettering ("I will have the last laugh") springs a trap — the floor drops the party into the void. | `content/eps/82.tex` |
+| 83 | Cape of Good Pope | The party falls into the games room of the wizard Valklondar; Jeremiah dies on impact. Pale fanged ladies, ghosts, a ghoul (Martin polymorphs Burnie into a sperm whale), then undead giants — Riphard decapitates the "Pope of Skeleton Giants" and inherits the title. Valklondar fireballs the group; Erin falls, charred. | `content/eps/83.tex` |
+| 84 | Hit and Run | Narrated by a mind-controlled Exme: Riphard revives Erin, Valkondar dominates Exme, and crab-polymorphed Myron slams the lich into Mrs Ball, killing him. In Hell, Lazarus briefs them on the Varg super-soldier serum (99 in 100 die). Plan: take over a Varg warband, challenge Valkar Varg, kill Kalimar, rescue Kolo's soul. Epilogue: Mrs Ball quietly restores a shattered universe. | `content/eps/84.tex` |
+| 85 | Girl's Night In | Aboard the airship: Exme reads Kolo's mouldy notebook, Burnie drinks ghost-engine juice, and a girls' night airs Erin's survivor guilt over Reggie, whose sacrifice led the gods to save her. In furs, the party joins the Chesney Hawks tribe under the giant Magrat — meeting Zelat, Buchra, Krum, Eric, Ragnor and Vesh. Buchra explodes Martin into pieces; Erin begins hearing an intrusive inner voice. | `content/eps/85.tex` |
+| 86 | Cat Scratch Fever | Myron wins a brutal bare-knuckle duel against the tiger-monk Zelat while Exme reassembles Martin. The party joins a hunt to win the tribe's respect — Stanri (now running Exme's school) suggests boreworms, cave mammoths or the ashen rider. A collective dream shows decaying flesh and a gargantuan purple dragon-thing thundering through space — the first vision of Canalon. | `content/eps/86.tex` |
+| 87 | Relephant | Hunting cave mammoths with Ragnor in an isolated crevice cave. The horse-sized mammoths gore and stomp Burnie badly before the party slaughters them; Exmerah keeps the clutch of mammoth eggs. | `content/eps/87.tex` |
+| 88 | Movers and shakers | A stand-off with the Adam-ants tribe is defused via barbecue and vodka; Exme befriends Aracia and her spider Zarathrustra. On a boreworm hunt the half-giant Eric is devoured whole; Riphard kills the worm. Valkar Varg, flanked by hellish Pact warriors, announces the invasion of the south — the coup plan is dead. | `content/eps/88.tex` |
+| 89 | Swamping the Weekend | The camp mobilises for war; Myron confesses the coup plot to an indifferent Magrat. Krankle's lab is found abandoned amid dead goblin children — he was taken north by Valkar's winged ally. Martin revives a goblin to find the trail. The jealous Adam-ants ambush the party and are wiped out; Magrat eats a man whole (witnessed only by Riphard). | `content/eps/89.tex` |
+| 90 | Hold the side Slaad | Fireball-spamming slaads in the old temple — Burnie is flattened and Exme freezes time to heal the group. An "outerlogue" shows a near-mindless remnant entity in the astral void witnessing a scarlet storm coming for the living, shedding a single golden tear. | `content/eps/90.tex` |
+| 91 | Sankes Don't Have Lips | Two guardian nagas nearly kill Erin — swallowed whole — before the party destroys them (one mocked to death by Martin). Malkior, a bestial lieutenant of Valkar, attacks with fire ants and feebleminds Martin; Myron and Martin's whirlwind flay him to mist. The gods answer a group prayer but warn they will intervene only when they deem necessary. | `content/eps/91.tex` |
+| 92 | Dark Haired White Women | Krankl is found in his pornography-coated lab: Valkar traded with Kalimar for power but wants insurance — Krankl is engineering a controllable goo ("Kalimel"). The party hires him (gold, protection, dark-haired white women) to brew an antidote instead; he hands over a tracker planted on Valkar. The horde marches south; the party tracks Valkar north. | `content/eps/92.tex` |
+| 93 | Its the girth not the length | North through featureless snowfields; Erin is entranced by a strange new coloured star, while Martin gives a bleak speech about travelling with murderous psychopaths. They reach a huge ice cliff carved with steps, banter with Valkar Varg himself, then plunge into a ruckus with his giant beasts. | `content/eps/93.tex` |
+| 94 | Sometimes fights just happen | Valkar's lieutenants beaten, the party descends into what they believe is a temple of Kalimar in the ice sheet — the floor drops and splits them. Ratmen slaughtered; a lightning-fast paralysing stalker killed; a new, more confident Mrs Ball appears (her predecessor perished). Exme carries the vial she hopes will cure Kolo. | `content/eps/94.tex` |
+| 95 | In the Fungal, the Shroomy Jungle | Narrated by Shroomy, a sentient mushroom colony writing in Burnie's stolen diary: the party skirts a 10,000-strong ratman hive and crosses a spore forest (Burnie turns blue; Riphard shrinks two feet). Erin dreams of her allies' corruption. Cordyceps-dinosaurs killed; the party descends into brown fleshy tunnels — the bowels of a god. | `content/eps/95.tex` |
+| 96 | A Moist Flesh Cave | Sneaking through Kalimar's flesh-tunnel hatcheries, fighting goatmen egg-tenders. Reggie's ghost is revealed riding inside Martin; an exorcism fails. Exme invisibly rigs Kalimar's spawn-eggs with dynamite. A dream shows Gazhikstan's armies meeting the Varg as Lazarus descends into the fray — and Canalon burning down through the atmosphere. Kalimar himself greets Exmerah: Kolo's soul is among tens of thousands inside him. | `content/eps/96.tex` |
+| 97 | The Destruction of The Creator | The final battle with Kalimar in his lava sanctum: Exme detonates his spawn-caverns, but Riphard, Martin, Erin and Exme all fall, Burnie is swallowed whole, and Myron is stabbed through the chest and thrown dead from Kalimar's shoulder. Mrs Ball delivers her biggest-ever bonk, punching clean through the Elder God of Creation and killing him. Burnie, sustained only by Synne's power, drags the fallen back — but Myron is beyond revivify. | `content/eps/97.tex` |
+| 98 | Absent Friends / Dinosaur Noises | Myron lives and Kolo is back in a constructed body — but Exmerah is gone: her forbidden wish restored them at the cost of her own existence. Bronwen, a 7ft golden-eyed Welsh-accented devil, arrives as Hell's minder. Visions: Canalon has mind-controlled the entire allied army (1 in 100 resist, and die), Lazarus and Valkar flee, Stanri escapes with a battalion of schoolchildren. Canalon means to strip the world of free will. Kolo finds Exme's last gift — a mechanical bow. West to Jecede. | `content/eps/98.tex` |
+| 99 | Fill me with your Jecede | The airship reaches Jecede, Erin's carnival-mad home city of rival princes (DuPont and Marseille families). Lord Commander Eric is convinced Hope's Rest has fallen — Erin is made head of all armies. A night at the Midnight Pearl, the cabaret run by Erin's parents Calista and Michelle Devereaux, where Riphard overhears dancers praying to "Lady Delilah". | `content/eps/99.tex` |
+| 100 | The game we played when the queen died | Myron wanders Jecede with an apocalyptic hangover while the party persuades the council of thirteen to mobilise militia and printing presses against Canalon's mind control. Bronwen scrys Canalon atop the Hope's Rest guildmasters' hall — its many eyes look back. Riphard slips away (note: investigating with the Jennies). A Nautiloid descends over the city; Gith warriors apparate into the streets. | `content/eps/100.tex` |
+| 101 | the one where Erin Dies | The party boards the Nautiloid in superhero poses, but an Ulitharid mass-suggests half of them into dropping their weapons. Disarmed, Erin is cut down by Gith warriors and her brain eaten by the mind flayer. Bronwen's darkness breaks the mind control; Myron splits the Ulitharid in twain with Erin's fallen glaive. | `content/eps/101.tex` |
+| 102 | The Mourning Star | Inside the Nautiloid the party frees Gem — a 500-year-old silicate woman from space with a bow that folds into a violin — and fights through Gith and mind flayers. Kolo is punched into the future and returns a bleeding mess; Myron is repeatedly downed, briefly corrupted (stabbing Gem, vomiting up an evil crown), revived by Bronwen. | `content/eps/102.tex` |
+| 103 | Out of Luck | Githyanki knights, then the elder brain — controlled by Cannillon, who offers servitude in destroying all gods. Burnie charges it alone and is torn limb from limb. The dying brain sets the Nautiloid plummeting toward Jecede; David and Captain Stick fly the airship Gary into it — Captain Stick dies and the beloved airship is destroyed. The survivors are branded with the Mark of Synne; Myron finally accepts leadership. | `content/eps/103.tex` |
+| 104 | Daddy Issues | Funerals (a viking burial for Captain Stick); the ghost engine expires. In Hell, Lazarus reports Lindenburg held and the Seven Spires saved; Gem reveals her people were created as Canalon was cast out. Plan: carry an army to Hope's Rest on Jecede's maiden-voyage steam railway while Canalon gathers magic-users to rift-attack the gods. Lillith returns; Bucky McCaw arrives with Burnie's farewell letter and joins; Lazarus gifts rings of mind shielding and jetpacks. | `content/eps/104.tex` |
+| 105 | Use the army as a distraction | Arbiter Giros arrives with special forces and is made joint Lord Commander — orders: harry Hope's Rest while staying outside Canalon's mile-wide mind-control radius, sealed-envelope targets. The Black Rock vault is revealed to hold Sin's Armaments — the gear Sinn wore when he last fought Canalon. Lillith (disguised as Lazarus) plants disinformation; the train leaves Jecede at the speed of 30,000 horses. | `content/eps/105.tex` |
+| 106 | With friends like these, who needs therapy | Two Inquisitors and their knights attack across the train roof; Myron fights the roof itself, Kolo debuts Exmerah's mechanical bow, and Bucky, Bronwen and Gem help annihilate them. Outside Hope's Rest the army forms ranks while the party slips into the sewers; Gem befriends an octopod called Badunkadonk, whom Kolo promptly shoots at. | `content/eps/106.tex` |
+| 107 | "Lobby Scene" | Bank heist: the sewer kraken probes for minds in the Black Rock bank (none — the mind-controlled city is eerily empty); invisible Bucky scouts the black-marble lobby — seven bronze automaton guards. A bullet-time battle against wall-running gunner automatons and a teleporting, lightning-wreathed Arcanist, whom Gem polymorphs into a clockwork bobbin. Myron delivers banking puns throughout. | `content/eps/107.tex` |
+| 108 | In for a penny, in for a pound | Lightning pillars, a lethal button puzzle and a security robot bypassed; the vault cracked with code 51624; lockbox no. 8 opens a hidden ancient staircase. Below, acid-filled pots, three skull locks and a mural riddle guard the Armoury of Sin: helm, sword, armour, shield, pendant and two nets. The party dons the gear and sets off — "Well, we're off to fight a God." FINAL WRITTEN EPISODE: the battle with Canalon itself was never written up. | `content/eps/108.tex` |
+
+### Interludes & Supplements
+
+In-character posts, side fiction and lore documents written by the players between sessions, placed in the book after the episode they follow.
+
+| Ep | Title | Summary | File |
+|----|-------|---------|------|
+| 4a | Kolos Plan | In-character planning post by Kolo for dealing with the SRA: Razzle Dazzle must die and the SRA must stop hunting the party. The scheme: disguise Riphard as a short non-pastor recruit to infiltrate, then goad Razzle into fighting or fleeing before his followers. Includes the in-character comment thread. | `content/eps/4a.tex` |
+| 15a | Pilch Journal - through the Sands | Pilch's deteriorating journal during the Great Expanse crossing: the cursed blade Black Sabbath haunts his dreams, held back only by the Mark of Synne. A prophetic vision shows his allies helping him shatter the Cursebringer — he purges the shadow, melts Black Sabbath, and fuses the Stone of Un'thala's essence into the katana that felled Otoria, naming it the Iron Maiden. | `content/eps/15a.tex` |
+| 22a | Pilch: Musings on Sorcery | Pilch distinguishes his own "Shadow Weaving" (dark, soul-depleting sorcery) from "Fate Spinning" (the external power of the Mark of Synne, which has saved his life three times). He concludes Synne may be a neutral god of fate, unjustly blamed, and resolves to master the Mark. | `content/eps/22a.tex` |
+| 22b | Gary: Musings on Lunch | Gary's affectionate parody of Pilch's musings, applied to food: Rocky's kebab routine, Kolo's worrying lab-made "food", Esme's overpriced "Keenwaw". He goes for spaghetti — without beef, which Kolo told him comes from horses. | `content/eps/22b.tex` |
+| 22c | Subjects please | Kolo's journal on his growing drug operation: self-testing has ruined the data, Gary's police connection is troublesome, and he plans to deal with the thieves guild for distribution and test subjects. | `content/eps/22c.tex` |
+| 22d | Puzzle Die of Rhu'Brex | In-character research note: since it's called a "Die", using it may involve a randomised roll — and it has six sides yet isn't called a cube. Conclusion of dread: it may be "a wicked pyramid of arcane power". | `content/eps/22d.tex` |
+| 24a | Musings on... Light... | Pilch's follow-up: mastering the Mark's Fate Spinning has flooded him with light and optimism — he's taken up the harmonica. He thinks of his lost love Lilith and faces the coming expedition hoping — together. | `content/eps/24a.tex` |
+| 40a | Church factions over the years | A heavily burned excerpt from an academic work stamped [APO]CRYPHAL, by halfling scholar Dunsid Cranberry (pub. 6620): Book Burners were once scholars and ambassadors, but a hidden fourth faction — the Inquisition — are the Church's true leaders and spymasters. | `content/eps/40a.tex` |
+| 57a | The Adventures of Snark the Goblin (Part 1) | Side tale told by Snark, a relentlessly friendly goblin (raptor Moxie, wolf Pillow), to the scholar Zuriel: in Magnimar, Snark's band is hired by a noble lady to recover an heirloom stolen by sewer goblins — who turn out to be bullied by a "hobgoblin" boss feeding dissenters to a "vampire". | `content/eps/57a.tex` |
+| 58a | The Adventures of Snark Part 2 | Snark's tale concludes: mind-control fungus, a corrupted pool, a mephit-bursting idol and an hourglass sandstorm trap. The "hobgoblin" is unmasked as a gross blood-draining monster; Krogan nearly cuts it in two. | `content/eps/58a.tex` |
+| 64a | A Crumpled Bit of Scribbled Parchment Found in the Bin | A discarded note in barely-literate phonetic scrawl working through three theories about the Golding's Bay disaster (ep 63) — was Kiri honest, complicit, or misled? — each with a list of "FINGS WOT DUNT MAIK SENSS". | `content/eps/64a.tex` |
+| 69a | We're all Synners here... | Burnie's private monologue after Kolo's death and Exme's departure, partly addressed to Mark: worry about roping Kevin into the "#Blessed" group, suspicion of Riphard's vendetta, the locked Puzzle Die, and a resolve to mount Kolo's bow on a memorial plaque. | `content/eps/69a.tex` |
+| 77.5 | The Masudan Fan-Fiction Adventure | Collaborative play-by-post fiction (post plus in-character comment thread) covering the four-day airship voyage to Masuda before the final assault: Martin teaches Exmerah about the gods, and the group prepares for war. | `content/eps/77-5.tex` |
+
 ---
 
 ## Campaign Arc Summary
@@ -507,4 +623,10 @@ Framed as VR time-travel via Mark's magic storm machine on the airship. Party in
 13. **Alliance Building** (eps 76-78): Rally allies across Velterra. Cube enables hyper-speed airship travel. Tom'ardy now socialist utopia, Lillith convinces them to fight (ep 76). Recruit merfolk army at New Abbergast (ep 77). Lillith infiltrates Seven's Spire as pastor. Festival of Light used as cover. Party arrested into the Spire by Lillith (ep 78).
 14. **The Battle & The Spire** (eps 79-80): Alliance army vs Church at Battle of Hope's Rest — heavy casualties on both sides, Church eventually flees (ep 79). Inside Seven's Spire: fight through floors, Burnie's book-burning rage, rescue prisoners including Kiros, kill Arbiter Khan. Ascending toward pinnacle to break the seal. NOTE: Final ending where party becomes demigods not yet written up.
 
-**Endgame**: The party is ascending the Seven's Spire to break the Great Stone's seal and return the gods to the world. The Stonecast Mech and ninja eagles provide distraction outside. Kolo's soul may only be saveable by the returned gods. The final confrontation and the party becoming demigods awaits.
+15. **One More Time With Passion** (eps 81-84): Four in-world years after the Spire fell, magic has returned but the gods remain distant. The scattered, half-broken party is regathered by Lazarus — now ruling Hell as the Empire of the Eight — alongside Sgt Erin Devereux, sole survivor of a recon mission to the Varg. After a warm-up against the lich Valklondar, the real threat: Valkar Varg has made a pact with Kalimar, brewing super-soldiers from his goo. Mission: stop the invasion, kill Kalimar, rescue Kolo's soul.
+16. **Among the Varg** (eps 85-92): The party infiltrates the Varglands and joins the Chesney Hawks tribe under the giant Magrat, hunting cave mammoths and boreworms to earn respect — until Valkar declares war and marches south with his Pact warriors. They recover Krankle (the goblin twins' childhood tormentor) and set him brewing an antidote to the "Kalimel" goo while tracking Valkar north.
+17. **The Destruction of the Creator** (eps 93-97): Down through an ice-cliff temple, ratman hives, fungal forests and the flesh-tunnel bowels of a god to Kalimar's lava sanctum. The Elder God of Creation nearly wipes the party — Myron is killed outright — before Mrs Ball annihilates Kalimar with her biggest-ever bonk. Exmerah's forbidden wish resurrects Myron and restores Kolo (in a construct body) at the price of erasing herself from existence.
+18. **Canalon Descends** (eps 98-103): Kalimar's mate Canalon (Cannillon), an elder-god space dragon, lands and mind-controls the entire allied army, seizing Hope's Rest to erase free will and destroy the gods. The party — now minded by the devil Bronwen — rallies Jecede, Erin's home city, but a Nautiloid full of githyanki and mind flayers attacks: Erin's brain is eaten (ep 101), Burnie is torn apart by the elder brain (ep 103), and Captain Stick and the airship Gary are destroyed deflecting the crashing ship. Gem, a silicate spacefarer, joins from the wreckage.
+19. **The Last Heist** (eps 104-108): Myron leads the remnant party (Myron, Kolo, Bronwen, Gem, Bucky McCraw) on a maiden-voyage steam railway from Jecede to Hope's Rest with a relief army, fighting Inquisitors on the train roof. Using the army as a distraction, they heist the deserted Black Rock bank and claim the Armoury of Sin — the gear Sinn wore when he last fought Canalon. Episode 108 ends on the eve of the final battle: "Well, we're off to fight a God."
+
+**Endgame**: The Spire assault (ep 80) and its immediate aftermath were never fully written up, but ep 81 opens "We are gods to be" and Myron's ep 103 speech mentions forgoing "eternal life with the gods" until Canalon is dead — the party earned demigodhood at the Spire. The final confrontation with Canalon (after ep 108) was never written up; the campaign's written record ends with the party donning the Armoury of Sin, off to fight a god.
