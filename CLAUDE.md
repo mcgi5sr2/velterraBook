@@ -57,6 +57,8 @@ content/
                         side fiction, lore documents from r/Velterra)
     template.tex      — Unused episode template
   img/                — All character art, maps, item images
+  relationships.tex   — Character Relationships (appendix)
+  glossary.tex        — Glossary of Terms (appendix)
 img/                  — Cover and background images
 lib/                  — DnD book style files
 ```
@@ -115,6 +117,8 @@ Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with des
 - Gods: All seven gods with descriptions, Synne filled in, Kalimar sidebar (updated: dead), Canalon sidebar (new)
 - Gear: Airship (with hyper-speed and destruction), STANRI (with continuation/headmaster), all weapons (CEDRIC, Godbringer, Black Sabbath, Iron Maiden, Kolo's Mechanical Bow, Stone Knife, etc.), misc items (Puzzle Die with all functions and Wish used, Inthun, Excalibrum, Armoury of Sin, Kalimel, Rings of Mind Shielding, etc.)
 - World overview, cast page, cover
+- Glossary of Terms appendix (content/glossary.tex): ~50 alphabetical entries covering in-world terminology, slang, proper nouns
+- Character Relationships appendix (content/relationships.tex): Family, Romances, Rivalries, Deep Bonds, and Succession tables
 - Story chapter (background.tex): fully expanded with "About This Book" (updated for both campaigns), "The World", "The Mission", "The Five Strangers", restructured 16-arc campaign narrative (Arcs I-XI original campaign, Arcs XII-XVI continuation), "In Memoriam" sidebar (all deaths including continuation), "Campaign by Numbers" (108 eps, 6 players, 16 PCs), "Themes of the Campaign" (with continuation coda), "The Continuation" as its own section
 
 ### Remaining Work
@@ -146,8 +150,6 @@ All continuation content has been folded into the book:
 
 ### Ideas for Future Enrichment
 - **Campaign Timeline**: Chronological table of major events with in-world dates (if DM established any). Could go in Chapter 1 or Chapter 2 alongside world/locations.
-- **Glossary/Terminology Appendix**: In-world terms (Gabrins, CC, Sundering, Excalibrum, Emancipation, etc.) are documented in REFERENCE.md for AI use, but a printed glossary in the book would help human readers navigate the episodes.
-- **Character Relationships Section**: Diagram or table of connections — romances (Riphard/Delilah, Exme/Myron, Daisuke/Archibald, Burnie/Trayvon), mentorships (Burnie/Kevin), rivalries, family ties (goblin twins, Hardstone/Hardthrust dynasty, Myron's family).
 - **DM's Notes / Afterword**: Meta-commentary from Michael Williams on designing the campaign, memorable moments, what he'd do differently. Needs DM input but would be a brilliant capstone to the book.
 
 ## REFERENCE.md — Campaign Knowledge Base
@@ -179,7 +181,9 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 ### 2026-06-12 (Session 9)
 1. Placed all 8 previously unused images: garygrave.png (Gary's memorial, gary.tex), incognitoMyron.png ("NOT MYRON" disguise, myron.tex), ladyHaramxe.png (Lady Gharbighast portrait, miscCharacters.tex), plan.png (campaign collage, background.tex), kolo.jpg (additional Kolo art, kolo.tex), mainLand.png (continent map, locations.tex — uncommented existing reference), esmeBlack2.jpg (goblin archer, replaced xxx in ep 55), excal1.jpg (metal ingots, replaced xxx in ep 57).
 2. Commented out all 21 remaining xxx placeholder image blocks: 18 episode files (eps 27, 31, 33, 41, 43, 45, 47, 48-5, 51, 53, 61, 63, 65, 67, 73, 75, 77, 79) plus template.tex, and 3 weapon entries in weapons.tex (Black Sabbath, Iron Maiden, Hammer of the Gods). Captain Stick placeholder no longer appears in printed book.
-3. Updated CLAUDE.md: Content Status updated to reflect image work, art wishlist documented in plan file, session changelog added.
+3. Created content/glossary.tex: ~50 alphabetical glossary entries covering in-world terminology (Gabrins, CC, Excalibrum, Sundering, etc.), items (Puzzle Die, Godbringer, CEDRIC), factions (Inquisition, SRA, Varg), locations (Seven's Spire, Great Expanse), and campaign concepts (Emancipation, The Wish, Pact Warriors). Added as Chapter 6: Appendices in velterra.tex.
+4. Created content/relationships.tex: Character Relationships appendix with five sections: Family (9 entries in DndTable), Romances (6 entries: Exme/Myron, Riphard/Delilah, Daisuke/Archibald, Oceani/Gharbighast, Mark/Meredith, Burnie/Trayvon), Rivalries (5 entries: Kolo/Riphard, Kolo/Pilcheur, Myron/Burnie, Otoria/Pilcheur, Lazarus/Arbigal), Deep Bonds (6 entries: Gary/Kolo, Exme/STANRI, Burnie/Kevin, Mark/Gary, Myron/Riphard, Martin/Burnie), and The Succession (DndTable mapping all 9 PC transitions with how each happened).
+5. Updated CLAUDE.md: Content Status updated, both appendices added to Complete list and repo structure, art wishlist documented in plan file, session changelog added.
 
 ### 2026-06-12 (Session 7)
 1. Placed 5 new images: bronwen_temp.png (Bronwen portrait), ExmeOlderPortraitFinal.png (Exme campaign 2), ProfStanri.png (Stanri as headmaster), SchoolLogo.jpg (TDHSFEGGTEIEAE crest), MrsBall.png (Mrs Ball entry in miscCharacters).
