@@ -6,4 +6,4 @@
 *.log
 *.synctex.gz
 *.toc
-./claude
+.claude/

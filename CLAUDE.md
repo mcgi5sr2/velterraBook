@@ -138,7 +138,9 @@ All continuation content has been folded into the book:
 
 #### Other
 - New-era character pages (Erin/Bronwen/Gem) now have art for Bronwen; Erin and Gem still have no portrait art
-- Some images still use placeholder files (xxx.png/xxx.jpg) — ~21 episode references and 3 in weapons.tex; all matching reddit art has been placed
+- All placeholder images (xxx.jpg/xxx.png) have been resolved: 2 replaced with real images (eps 55, 57), 18 episode placeholders and 3 weapons placeholders commented out (Session 9)
+- All 8 previously unused images now placed: garygrave.png, incognitoMyron.png, ladyHaramxe.png, plan.png, esmeBlack2.jpg, mainLand.png, kolo.jpg, excal1.jpg (Session 9)
+- 69 episodes still have no images (all continuation eps 81-108, all interludes, and ~41 original campaign eps). See plan file for prioritised art wishlist.
 - Could add appendices for custom classes (noted in original TODOs, needs DM input)
 - LaTeX figure environments are nested oddly (figure inside center) throughout — works but not best practice
 
@@ -173,6 +175,11 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 7. **Keep it updated**: When new content is added to the book (new characters, locations, items, etc.), update REFERENCE.md to keep it current.
 
 ## Change Log
+
+### 2026-06-12 (Session 9)
+1. Placed all 8 previously unused images: garygrave.png (Gary's memorial, gary.tex), incognitoMyron.png ("NOT MYRON" disguise, myron.tex), ladyHaramxe.png (Lady Gharbighast portrait, miscCharacters.tex), plan.png (campaign collage, background.tex), kolo.jpg (additional Kolo art, kolo.tex), mainLand.png (continent map, locations.tex — uncommented existing reference), esmeBlack2.jpg (goblin archer, replaced xxx in ep 55), excal1.jpg (metal ingots, replaced xxx in ep 57).
+2. Commented out all 21 remaining xxx placeholder image blocks: 18 episode files (eps 27, 31, 33, 41, 43, 45, 47, 48-5, 51, 53, 61, 63, 65, 67, 73, 75, 77, 79) plus template.tex, and 3 weapon entries in weapons.tex (Black Sabbath, Iron Maiden, Hammer of the Gods). Captain Stick placeholder no longer appears in printed book.
+3. Updated CLAUDE.md: Content Status updated to reflect image work, art wishlist documented in plan file, session changelog added.
 
 ### 2026-06-12 (Session 7)
 1. Placed 5 new images: bronwen_temp.png (Bronwen portrait), ExmeOlderPortraitFinal.png (Exme campaign 2), ProfStanri.png (Stanri as headmaster), SchoolLogo.jpg (TDHSFEGGTEIEAE crest), MrsBall.png (Mrs Ball entry in miscCharacters).
