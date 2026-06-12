@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -rn \"\\\\\\\\bText$\\\\|^Text$\\\\|noindent.*Text\\\\|\\\\\\\\\\\\\\\\noindent\\\\s*$\" /workspace/content/ --include=\"*.tex\")",
+      "Bash(grep -E \"^[^-]*-$|Text$\")"
+    ]
+  }
+}

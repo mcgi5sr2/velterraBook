@@ -93,10 +93,11 @@ When a player's character died or departed, they rolled a new one:
 - **Jonathan Mann**: Exmerah Sliokzog (until erased from existence, ep 97)
 - **Richard Pugh**: Riphard Obsidian Hardstone (departs ~ep 100)
 
-The 2022 continuation (eps 81-108) added new players known only by reddit handle:
-/u/its_Samar and /u/Thrawien. New-era characters: Sgt Erin Devereux (dies ep 101),
-Bronwen (devil minder, ep 98+), Gem (silicate spacefarer, ep 102+), Bucky McCaw
-(joins ep 104, after Burnie dies ep 103).
+The 2022 continuation (eps 81-108) added one new player, Natalie Southernden
+(reddit handle /u/Thrawien), who played Erin then Gem. Jonathan Mann's new reddit
+handle was /u/its_Samar; after Exme's erasure he played Bronwen. New-era characters:
+Sgt Erin Devereux (dies ep 101), Bronwen (devil minder, ep 98+), Gem (silicate
+spacefarer, ep 102+), Bucky McCaw (joins ep 104, after Burnie dies ep 103).
 
 ### Campaign plot summary
 Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with destroying the Church of the Seven — which has sealed the gods away from the world and is sending too many innocent souls to Hell. The party retrieves the Stone of Unthala, travels to Hope's Rest, founds the Gary Guild and a bank, crosses deserts and seas, raids the Tower of Ruh'Breks (gaining an airship and the Puzzle Die), fights through the jungles of South Africa and the civil war of Masuda. They return to the dwarven mountains seeking Excalibrum — the only metal that can harm the Church's Inquisitors. Kolo falls to the elder entity Kalimar, murders Delilah, and is killed by Riphard. The party regroups in Linderdorf, forges Excalibrum weapons, wins a giant robot in an arena fight, and builds an alliance army. They assault the Seven's Spire to break the Great Stone's seal and return the gods to the world, becoming demigods in the process.
@@ -117,10 +118,26 @@ Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with des
 - Story chapter (background.tex): fully expanded with "About This Book" meta intro, "The World" setting overview, "The Mission" (Lazarus's deal), "The Five Strangers" (party intros with origTeam.png), full 14-arc campaign narrative (Arc I: Resurrection through Arc XIV: The Battle & The Spire), "In Memoriam" sidebar (all PC deaths/departures), "Campaign by Numbers" stats box, "Themes of the Campaign" sidebar
 
 ### Remaining Work
-- The final battle with Canalon (post-ep 108) was never written up by the players — the book's written record ends with the party setting off to fight a god (needs player input)
-- The ep-80 demigod ascension itself is also only obliquely documented (ep 81 opens "We are gods to be")
-- The existing main character pages (chars/kolo.tex, exme.tex, etc.) still narrate only up to ep 80; their Story sections do not yet fold in the eps 81-108 continuation (Exme's erasure, Kolo's return, Burnie's death, Myron's leadership, the airship's destruction). New-era characters now have entries: Erin/Bronwen/Gem as full pages (no art available), Mrs Ball/David/Valkar/Krankle in miscCharacters.tex
-- Some images still use placeholder files (xxx.png/xxx.jpg) — need real art (~21 episode references and 3 in weapons.tex; all matching reddit art has been placed)
+
+#### Three Missing Battles (needs player/DM input)
+These pivotal scenes were never written up by the players and cannot be reconstructed from episode text alone:
+1. **Campaign 1 finale** (post-ep 80): The actual breaking of the seal at Seven's Spire and the party becoming demigods. Ep 80 ends mid-assault; ep 81 opens "We are gods to be."
+2. **Exme's sacrifice** (during ep 97): The full scene in Kalimar's lava sanctum. What happened: Kalimar nearly killed everyone. Myron was critically injured, paralysed and dying. Exme used the Puzzle Die's Wish function (the only wish in existence, 10,000-year cooldown) to give up her own life to restore Kolo AND heal Myron, because she could not choose between them. The wish was accepted, but because the ask was so extreme, she was erased from all reality: no resurrection, no godhood, no afterlife, no Hell. The episode text covers the battle but the emotional weight of the wish itself deserves fuller treatment. Jonathan (Exme's player) later suggested in Discord that Exme may have been moved to a reality that exists inside Mrs Ball (each Ball contains a universe, and Mrs Ball's people restore broken ones). This has not been established as canon but could be included as a rumour or whisper.
+3. **Campaign 2 finale** (post-ep 108): The battle with Canalon wearing the Armoury of Sin. Ep 108 ends "Well, we're off to fight a God." The outcome was never written up.
+
+#### Continuation Updates (in progress)
+- The existing main character pages (chars/kolo.tex, exme.tex, riphard.tex, burnie.tex, myron.tex, martin.tex) still narrate only up to ep 80; their Story sections do not yet fold in the eps 81-108 continuation (Exme's erasure, Kolo's return, Burnie's death, Myron's leadership, the airship's destruction)
+- background.tex campaign narrative stops at Arc XIV (ep 80); needs Arcs XV-XIX (eps 81-108), updated In Memoriam sidebar, and updated Campaign by Numbers box
+- groups.tex missing new-era factions: Empire of the Eight, Pact Warriors, named Varg tribes, Githyanki/Mind Flayers; existing entries (Varg, Hell Inc., Alliance Army) need continuation updates
+- locations.tex missing new-era locations: Jecede, Midnight Pearl, Kalimar's Lair, Black Rock, Fishy Library, Jecede Railway, Erdun's Well
+- theGods.tex Kalimar sidebar is stale (he's dead now); Canalon needs a proper entry as the final enemy
+- Gear files missing: Armoury of Sin, Kolo's Mechanical Bow, Kalimel/antidote, Rings of Mind Shielding, Nautiloid; Airship Gary needs destruction noted (ep 103); STANRI needs post-Exme update
+- miscCharacters.tex could add minor new-era NPCs: Arbiter Giros, Magrat, Zelat/Buchra, Malkior, Valklondar, Badunkadonk, Reggie, etc.
+- Discord RP channel content (extraRPnotesafterExmeDead.txt) contains in-character dialogue between sessions (Kolo's eulogy for Exme, Burnie's speech about fate and Synne, Myron's posthumous honours for Erin, Bronwen rallying the group). Key quotes should be woven into character pages.
+
+#### Other
+- New-era character pages (Erin/Bronwen/Gem) now have art for Bronwen; Erin and Gem still have no portrait art
+- Some images still use placeholder files (xxx.png/xxx.jpg) — ~21 episode references and 3 in weapons.tex; all matching reddit art has been placed
 - Could add appendices for custom classes (noted in original TODOs, needs DM input)
 - LaTeX figure environments are nested oddly (figure inside center) throughout — works but not best practice
 
@@ -155,6 +172,30 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 7. **Keep it updated**: When new content is added to the book (new characters, locations, items, etc.), update REFERENCE.md to keep it current.
 
 ## Change Log
+
+### 2026-06-12 (Session 7)
+1. Placed 5 new images: bronwen_temp.png (Bronwen portrait), ExmeOlderPortraitFinal.png (Exme campaign 2), ProfStanri.png (Stanri as headmaster), SchoolLogo.jpg (TDHSFEGGTEIEAE crest), MrsBall.png (Mrs Ball entry in miscCharacters).
+2. Updated all 9 character pages with continuation content (eps 81-108):
+   - Exme: Status → "Erased from existence (ep 97)". Full continuation story (broken drunk, school, Kalimar lair, the Wish, erasure). Mrs Ball rumour sidebar. Relationships updated. Creations sidebar updated (Stanri as headmaster).
+   - Kolo: Status → "Dead (ep 68), restored in a construct body (ep 98)". Continuation story (restoration, Mr Robot, mechanical bow, eulogy from Discord RP, fighting through to Armoury of Sin).
+   - Burnie: Status → "Dead (ep 103)". Continuation story (Fishy Library, swallowed by Kalimar, Synne speech from Discord RP, charging elder brain alone, death/cremation).
+   - Myron: Full continuation (arbiter army, Zelat duel, killed by Kalimar, resurrected by wish, Erin's posthumous honours, accepting leadership, leading remnant to Armoury of Sin).
+   - Riphard: Status → "Departed (~ep 100)". Continuation (Black Rock, Pope of Skeleton Giants, departs in Jecede).
+   - Martin: Status → "Faded from the story (~ep 99)". Continuation (Inquisitor hunting, teaching, exploded by Buchra, feeblemind, fades when Kolo returns).
+   - Erin: Added player (Natalie Southernden), Discord RP moment with Kolo, Myron's posthumous honours.
+   - Bronwen: Added player (Jonathan Mann), Discord RP rallying speech.
+   - Gem: Added player (Natalie Southernden).
+3. Fixed player-character mapping: /u/its_Samar = Jonathan Mann (new handle); /u/Thrawien = Natalie Southernden (new player). Erin and Gem both played by Natalie; Bronwen by Jonathan.
+4. Updated CLAUDE.md remaining work with three missing battles (Campaign 1 finale, Exme's sacrifice detail, Campaign 2 finale), Discord RP content notes, and detailed continuation update checklist.
+5. Read and analysed extraRPnotesafterExmeDead.txt (Discord in-character RP between sessions). Key content woven into character pages: Kolo's eulogy, Burnie's Synne speech, Erin's moment with Kolo, Bronwen rallying the group, Myron's honours for Erin.
+
+**Still to do this session:**
+- background.tex: Add Arcs XV-XIX, update In Memoriam sidebar, update Campaign by Numbers
+- groups.tex: Add new-era factions, update existing
+- locations.tex: Add new-era locations
+- theGods.tex: Update Kalimar (dead), add Canalon entry
+- Gear files: Add Armoury of Sin, Kolo's Bow, etc.; update Airship (destroyed)
+- miscCharacters.tex: Minor new-era NPCs
 
 ### 2026-06-12 (Session 6)
 1. Added pages for the new-era party members: content/chars/erin.tex (Sgt Erin Devereux), bronwen.tex, gem.tex, wired into the Characters chapter after toni.tex. No portrait art exists for them: the 2022 continuation posted only episode text and one unreachable reddit gallery (s3shrh), so these pages ship without images.

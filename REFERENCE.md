@@ -22,7 +22,7 @@ A comprehensive index of characters, locations, items, factions, lore, and episo
 ## Player Characters
 
 ### Kolo "Toure" Kozolski
-- **Player**: Jonathan Mann (shared with Exme)
+- **Player**: Stephen Reddish
 - **Race/Class**: Goblin Rogue/Ranger | **Age**: 8 | **Status**: Dead (ep 68); restored in a construct body (ep 98), active through ep 108
 - **Source**: `content/chars/kolo.tex`
 - **Episodes**: 1-55, 9b-9d (Kolo's Tale narrator), 98-108 (returned)
@@ -117,28 +117,28 @@ A comprehensive index of characters, locations, items, factions, lore, and episo
 - **Key moments**: Found chained up by bearkin in Varg (ep 71), cable-hand rescue of Kevin (ep 71), deal with Lazarus (ep 73), fights Aspect of the Storm (ep 73), arena fight in Stonecast Mech (ep 75), teaching Myron words in sleep, invisible bear disguise at Seven's Spire (ep 80), post-timeskip Inquisitor-hunter and professor at Exme's school (ep 81), exploded into pieces by Buchra and reassembled (ep 85), feeblemind by Malkior — "feeling like a mouse" (ep 91), destroyed and revived at Kalimar (ep 97), fades from the story once Kolo returns (same player)
 
 ### Kevin
-- **Player**: Not a PC — NPC companion
+- **Player**: Jonathan Mann (during short break from Exmerah)
 - **Race/Class**: Human Assassin (student) | **Status**: Active
 - **Episodes**: 69-80
 - **Summary**: Final-year PhD student from University of Assassins. Introduced by Buck McCraw (Burnie's bird-son) as promising student needing field experience (ep 69). Writes formal report-letters to "Professor McCaw". Unhealthily abusive mentor relationship with Burnie. Enjoys developing poison immunity and fantasy RPGs. Christopher Mintz-Plasse energy. Connects with Thieves Guild networks for intel. Survived giant fight (ep 72), Aspect of Storm (ep 73). Substituted gravy for Bovril in Myron's cocktails without detection (ep 71).
 - **Key moments**: Appears from shadows (ep 69), Myron throws bottles at his head, salutes Captain Stick, falls out of Hell window (ep 69), stealth recon across episodes, collapses in Varg cold (ep 71), climbs on storm giant (ep 72), Bovril substitution (ep 71)
 
 ### Sgt Erin Devereux (new era)
-- **Player**: New player, reddit handle /u/its_Samar
+- **Player**: Natalie Southernden (new player for campaign 2)
 - **Race/Class**: Human soldier/paladin (glaive) | **Status**: Dead (ep 101)
 - **Source**: `content/chars/erin.tex`
 - **Episodes**: 81-101
 - **Summary**: Sergeant from the carnival city of Jecede; sole survivor of the recon team sent to the Varg, saved when the gods answered her dying friend Reggie's sacrifice (ep 85). Joined the regathered party to stop the Varg/Kalimar super-soldiers. Haunted by survivor guilt and, increasingly, by a hostile intrusive inner voice that grew disdainful of party and gods alike (eps 85-93). Swallowed whole by a guardian naga and cut free (ep 91). Made head of all Jecede's armies (ep 99). Killed aboard the Nautiloid — brain eaten by the Ulitharid mind flayer (ep 101); cremated with Burnie (ep 103). Her parents Calista and Michelle Devereaux run the Midnight Pearl cabaret in Jecede.
 
 ### Bronwen (new era)
-- **Player**: New-era party member (devil minder)
+- **Player**: Jonathan Mann (post Exme being removed from existence) (devil minder)
 - **Race/Class**: Devil (7ft, golden-eyed, Welsh accent) | **Status**: Active
 - **Source**: `content/chars/bronwen.tex`
 - **Episodes**: 98-108
 - **Summary**: Sent by Hell (Empire of the Eight) after the Kalimar battle to keep the party on track (ep 98). Flying-sword fighter and healer. Her darkness broke the Ulitharid's mass mind control (ep 101); revived Myron repeatedly aboard the Nautiloid (ep 102). Scryed Canalon atop the Hope's Rest guildmasters' hall — and it looked back (ep 100).
 
 ### Gem (new era)
-- **Player**: New-era party member
+- **Player**: Natalie Southernden
 - **Race/Class**: Silicate woman from space | **Age**: ~500 | **Status**: Active
 - **Source**: `content/chars/gem.tex`
 - **Episodes**: 102-108
@@ -389,7 +389,7 @@ Source: `content/story/theGods.tex`
 | **Novetta** | The Arms-Bearer, The Consuming Fire | Valor, Fighting Evil, Vengeance. Bastard sword Fynyr. No armour. |
 | **Matreus** | The Standard-Bearer, The Tower on the Hill | Loyalty, Conviction. Deaf and blind, fights not knowing if allies remain. |
 | **Synne** | The Horseman, The Buried Spire | The Eighth God. Domains shrouded in secrecy, followers viewed with suspicion. Church speaks only of Seven, wants world to forget him. Great Stone was originally "Stone of the Eight". Pilcheur bore the Mark of Synne (divine brand granting dark powers at terrible cost). Upon Pilch's death, manifested as Mark O'Synne — golden-haired avatar claiming to prevent the Sundering's worst consequences. Party labelled "Cult of Synne" by Church (ep 65). |
-| **Kalimar** | (Not a god — elder entity) | Master of warping flesh. Kolo became his servant. Souls absorbed by Kalimar don't go to Hell. Connected to Canilon/Canelon symbol (Inquisitor tattoos). | 
+| **Kalimar** | (Not a god — elder entity) | Master of warping flesh. Kolo became his servant. Souls absorbed by Kalimar don't go to Hell. Connected to Canilon/Canelon symbol (Inquisitor tattoos). |
 | **Canilon/Canelon** | (Entity/symbol) | Symbol found on Inquisitors (ep 67), purple orbs (ep 56). Connected to Kalimar. Souls going missing (ep 65). |
 
 ---
