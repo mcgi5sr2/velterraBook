@@ -8,3 +8,6 @@
 *.toc
 .claude/
 *.pdf
+
+# the compiled book (compressed for viewing); build output is regenerated locally
+!velterra.pdf
