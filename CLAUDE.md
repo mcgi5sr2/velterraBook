@@ -119,7 +119,7 @@ Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with des
 ### Remaining Work
 - The final battle with Canalon (post-ep 108) was never written up by the players — the book's written record ends with the party setting off to fight a god (needs player input)
 - The ep-80 demigod ascension itself is also only obliquely documented (ep 81 opens "We are gods to be")
-- Character pages (chars/*.tex) do not yet cover the eps 81-108 continuation (Exme's erasure, Kolo's return, Burnie's death, Myron's leadership, the airship's destruction); new-era characters (Erin, Bronwen, Gem, Mrs Ball, David, Valkar, Krankle) have no entries yet
+- The existing main character pages (chars/kolo.tex, exme.tex, etc.) still narrate only up to ep 80; their Story sections do not yet fold in the eps 81-108 continuation (Exme's erasure, Kolo's return, Burnie's death, Myron's leadership, the airship's destruction). New-era characters now have entries: Erin/Bronwen/Gem as full pages (no art available), Mrs Ball/David/Valkar/Krankle in miscCharacters.tex
 - Some images still use placeholder files (xxx.png/xxx.jpg) — need real art (~21 episode references and 3 in weapons.tex; all matching reddit art has been placed)
 - Could add appendices for custom classes (noted in original TODOs, needs DM input)
 - LaTeX figure environments are nested oddly (figure inside center) throughout — works but not best practice
@@ -155,6 +155,13 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 7. **Keep it updated**: When new content is added to the book (new characters, locations, items, etc.), update REFERENCE.md to keep it current.
 
 ## Change Log
+
+### 2026-06-12 (Session 6)
+1. Added pages for the new-era party members: content/chars/erin.tex (Sgt Erin Devereux), bronwen.tex, gem.tex, wired into the Characters chapter after toni.tex. No portrait art exists for them: the 2022 continuation posted only episode text and one unreachable reddit gallery (s3shrh), so these pages ship without images.
+2. Added miscCharacters.tex entries for Mrs Ball, David, Valkar Varg and Krankle.
+3. Removed every LaTeX em dash (---) from the curated prose (chapters: chars, story, world, gear): 331 became commas, 12 definition labels became colons, and three pull-quote attributions in background.tex became right-aligned italic lines. Episode files (content/eps/) were left untouched per the verbatim-preservation rule, so player-written em dashes remain there. En dashes (date ranges, recovered-document extracts) were left as-is.
+4. Book rebuilds clean at 319 pages.
+
 
 ### 2026-06-12 (Session 5, continued — image scrape)
 1. Scraped all images from r/Velterra posts (64 direct downloads; 12 were already in the repo under other names — confirmed by perceptual comparison; e.g. krokokolo.png = "Good night my sweet prince", koloShield.png = "Myron's New Shield", velterraMap.png = "Map as of Episode 71").

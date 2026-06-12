@@ -126,18 +126,21 @@ A comprehensive index of characters, locations, items, factions, lore, and episo
 ### Sgt Erin Devereux (new era)
 - **Player**: New player, reddit handle /u/its_Samar
 - **Race/Class**: Human soldier/paladin (glaive) | **Status**: Dead (ep 101)
+- **Source**: `content/chars/erin.tex`
 - **Episodes**: 81-101
 - **Summary**: Sergeant from the carnival city of Jecede; sole survivor of the recon team sent to the Varg, saved when the gods answered her dying friend Reggie's sacrifice (ep 85). Joined the regathered party to stop the Varg/Kalimar super-soldiers. Haunted by survivor guilt and, increasingly, by a hostile intrusive inner voice that grew disdainful of party and gods alike (eps 85-93). Swallowed whole by a guardian naga and cut free (ep 91). Made head of all Jecede's armies (ep 99). Killed aboard the Nautiloid — brain eaten by the Ulitharid mind flayer (ep 101); cremated with Burnie (ep 103). Her parents Calista and Michelle Devereaux run the Midnight Pearl cabaret in Jecede.
 
 ### Bronwen (new era)
 - **Player**: New-era party member (devil minder)
 - **Race/Class**: Devil (7ft, golden-eyed, Welsh accent) | **Status**: Active
+- **Source**: `content/chars/bronwen.tex`
 - **Episodes**: 98-108
 - **Summary**: Sent by Hell (Empire of the Eight) after the Kalimar battle to keep the party on track (ep 98). Flying-sword fighter and healer. Her darkness broke the Ulitharid's mass mind control (ep 101); revived Myron repeatedly aboard the Nautiloid (ep 102). Scryed Canalon atop the Hope's Rest guildmasters' hall — and it looked back (ep 100).
 
 ### Gem (new era)
 - **Player**: New-era party member
 - **Race/Class**: Silicate woman from space | **Age**: ~500 | **Status**: Active
+- **Source**: `content/chars/gem.tex`
 - **Episodes**: 102-108
 - **Summary**: Freed from a holding cell aboard the Nautiloid (ep 102). Her people were created at the moment Canalon was cast out; she is an "observer" breaking protocol by intervening. Wields a bow that folds into a violin; psychic powers. Polymorphed the bank Arcanist into a clockwork bobbin (ep 107). Befriended the sewer octopod Badunkadonk (ep 106).
 
