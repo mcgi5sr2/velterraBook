@@ -109,13 +109,13 @@ Lazarus (a devil in Hell) resurrects five dead strangers and tasks them with des
 ### Complete
 - All episode write-ups (eps 1–108, 9b–9d, 33-5a–d, plus interludes 4a, 15a, 22a–d, 24a, 40a, 57a, 58a, 64a, 68a, 69a, 77.5) — all formatted as LaTeX. Eps 81–108 and the interludes were scraped verbatim from r/Velterra (June 2026)
 - All main character pages: Kolo, Exme, Riphard, Pilcheur, Otoria, Gary, Mark, Burnie, Myron, Toni, Martin — fully written with Background, Personality, Relationships, Story, and DndSidebar sections
-- All secondary characters in miscCharacters.tex: Delilah, Lazarus, Kiros, Kevin, Captain Stick, Vu Dong, Meredith, Trayvon, Ruh'Breks, Holly, Twins, Derek, King Oceani, Tiki Tuks, Garbigail, Arbigal, Daisuke, Archibald, Lillith, Dagenham, Google Von Maccherstein, Buck McCraw, Lady Gharbighast, Rolltop Kandian, Lark
-- Groups/factions: Church, Jennies, SRA, Book Burners, Gary Guild, Bank, Hearthrust Society, Inquisition, Varg, University of Assassins, Alliance Army, Hell Inc.
-- Locations: All Main Land locations (Hope's Rest, Vathos Boundary, Temple of Unthala, Riverfall, Seven's Spire, Logarsk, Great Expanse, Port Averdale, Tom'ardy Mountains, Linderdorf, New Abbergast, Golding's Bay, Varg Lands, Bright Bart Forge), plus Nanduan, Masuda, South Africa, Hell
-- Gods: All seven gods with descriptions, Synne filled in, Kalimar sidebar
-- Gear: Airship (with hyper-speed), STANRI, all weapons (CEDRIC, Godbringer, Black Sabbath, Iron Maiden, etc.), misc items (Puzzle Die with all functions, Inthun, Excalibrum, etc.)
+- All secondary characters in miscCharacters.tex: Delilah, Lazarus (expanded with continuation), Kiros, Kevin, Captain Stick (death noted), Vu Dong, Meredith, Trayvon, Ruh'Breks, Holly, Twins, Derek, King Oceani, Tiki Tuks, Garbigail, Arbigal, Daisuke, Archibald, Lillith, Dagenham, Google Von Maccherstein, Buck/Bucky McCaw (expanded with continuation), Lady Gharbighast, Rolltop Kandian, Lark, Mrs Ball, David, Valkar Varg, Krankle, Valklondar, Magrat, Zelat, Malkior, Reggie, Arbiter Giros, Badunkadonk, Shroomy. Minor figures tables for both campaigns.
+- Groups/factions: Church, Jennies, SRA, Book Burners, Gary Guild, Bank, Hearthrust Society, Inquisition, Varg (updated with Valkar/Pact warriors/Chesney Hawks), University of Assassins, Alliance Army (updated with Canalon mind-control), Hell Inc./Empire of the Eight (updated), Githyanki (new)
+- Locations: All Main Land locations (Hope's Rest (updated with Canalon occupation), Vathos Boundary, Temple of Unthala, Riverfall, Seven's Spire, Logarsk, Great Expanse, Port Averdale, Tom'ardy Mountains, Linderdorf, New Abbergast, Golding's Bay, Varg Lands (updated), Bright Bart Forge, Jecede, Midnight Pearl, Kalimar's Lair, Black Rock, Fishy Library, Jecede Railway, Erdun's Well), plus Nanduan, Masuda, South Africa, Hell
+- Gods: All seven gods with descriptions, Synne filled in, Kalimar sidebar (updated: dead), Canalon sidebar (new)
+- Gear: Airship (with hyper-speed and destruction), STANRI (with continuation/headmaster), all weapons (CEDRIC, Godbringer, Black Sabbath, Iron Maiden, Kolo's Mechanical Bow, Stone Knife, etc.), misc items (Puzzle Die with all functions and Wish used, Inthun, Excalibrum, Armoury of Sin, Kalimel, Rings of Mind Shielding, etc.)
 - World overview, cast page, cover
-- Story chapter (background.tex): fully expanded with "About This Book" meta intro, "The World" setting overview, "The Mission" (Lazarus's deal), "The Five Strangers" (party intros with origTeam.png), full 14-arc campaign narrative (Arc I: Resurrection through Arc XIV: The Battle & The Spire), "In Memoriam" sidebar (all PC deaths/departures), "Campaign by Numbers" stats box, "Themes of the Campaign" sidebar
+- Story chapter (background.tex): fully expanded with "About This Book" (updated for both campaigns), "The World", "The Mission", "The Five Strangers", restructured 16-arc campaign narrative (Arcs I-XI original campaign, Arcs XII-XVI continuation), "In Memoriam" sidebar (all deaths including continuation), "Campaign by Numbers" (108 eps, 6 players, 16 PCs), "Themes of the Campaign" (with continuation coda), "The Continuation" as its own section
 
 ### Remaining Work
 
@@ -125,15 +125,16 @@ These pivotal scenes were never written up by the players and cannot be reconstr
 2. **Exme's sacrifice** (during ep 97): The full scene in Kalimar's lava sanctum. What happened: Kalimar nearly killed everyone. Myron was critically injured, paralysed and dying. Exme used the Puzzle Die's Wish function (the only wish in existence, 10,000-year cooldown) to give up her own life to restore Kolo AND heal Myron, because she could not choose between them. The wish was accepted, but because the ask was so extreme, she was erased from all reality: no resurrection, no godhood, no afterlife, no Hell. The episode text covers the battle but the emotional weight of the wish itself deserves fuller treatment. Jonathan (Exme's player) later suggested in Discord that Exme may have been moved to a reality that exists inside Mrs Ball (each Ball contains a universe, and Mrs Ball's people restore broken ones). This has not been established as canon but could be included as a rumour or whisper.
 3. **Campaign 2 finale** (post-ep 108): The battle with Canalon wearing the Armoury of Sin. Ep 108 ends "Well, we're off to fight a God." The outcome was never written up.
 
-#### Continuation Updates (in progress)
-- The existing main character pages (chars/kolo.tex, exme.tex, riphard.tex, burnie.tex, myron.tex, martin.tex) still narrate only up to ep 80; their Story sections do not yet fold in the eps 81-108 continuation (Exme's erasure, Kolo's return, Burnie's death, Myron's leadership, the airship's destruction)
-- background.tex campaign narrative stops at Arc XIV (ep 80); needs Arcs XV-XIX (eps 81-108), updated In Memoriam sidebar, and updated Campaign by Numbers box
-- groups.tex missing new-era factions: Empire of the Eight, Pact Warriors, named Varg tribes, Githyanki/Mind Flayers; existing entries (Varg, Hell Inc., Alliance Army) need continuation updates
-- locations.tex missing new-era locations: Jecede, Midnight Pearl, Kalimar's Lair, Black Rock, Fishy Library, Jecede Railway, Erdun's Well
-- theGods.tex Kalimar sidebar is stale (he's dead now); Canalon needs a proper entry as the final enemy
-- Gear files missing: Armoury of Sin, Kolo's Mechanical Bow, Kalimel/antidote, Rings of Mind Shielding, Nautiloid; Airship Gary needs destruction noted (ep 103); STANRI needs post-Exme update
-- miscCharacters.tex could add minor new-era NPCs: Arbiter Giros, Magrat, Zelat/Buchra, Malkior, Valklondar, Badunkadonk, Reggie, etc.
-- Discord RP channel content (extraRPnotesafterExmeDead.txt) contains in-character dialogue between sessions (Kolo's eulogy for Exme, Burnie's speech about fate and Synne, Myron's posthumous honours for Erin, Bronwen rallying the group). Key quotes should be woven into character pages.
+#### Continuation Updates (COMPLETE)
+All continuation content has been folded into the book:
+- All 11 main character pages updated with continuation stories (Session 7)
+- background.tex restructured to 16 arcs (I-XI original, XII-XVI continuation), all sidebars/stats updated (Session 8)
+- groups.tex updated: Varg (Valkar/Pact warriors), Alliance Army (mind-controlled), Hell Inc. → Empire of the Eight, Githyanki added (Session 8)
+- locations.tex: 7 new-era locations added, Hope's Rest and Varg Lands updated (Session 8)
+- theGods.tex: Kalimar updated (dead), Canalon sidebar added (Session 8)
+- Gear files: Airship destruction, STANRI headmaster, Kolo's Bow, Armoury of Sin, Kalimel, Rings of Mind Shielding all added (Session 8)
+- miscCharacters.tex: Lazarus expanded, Buck McCaw expanded, 8 new NPCs (Valklondar, Magrat, Zelat, Malkior, Reggie, Giros, Badunkadonk, Shroomy), new minor figures table (Session 8)
+- Discord RP content woven into character pages (Session 7)
 
 #### Other
 - New-era character pages (Erin/Bronwen/Gem) now have art for Bronwen; Erin and Gem still have no portrait art
@@ -189,13 +190,14 @@ The file `REFERENCE.md` (in repo root) is a comprehensive index of the entire Ve
 4. Updated CLAUDE.md remaining work with three missing battles (Campaign 1 finale, Exme's sacrifice detail, Campaign 2 finale), Discord RP content notes, and detailed continuation update checklist.
 5. Read and analysed extraRPnotesafterExmeDead.txt (Discord in-character RP between sessions). Key content woven into character pages: Kolo's eulogy, Burnie's Synne speech, Erin's moment with Kolo, Bronwen rallying the group, Myron's honours for Erin.
 
-**Still to do this session:**
-- background.tex: Add Arcs XV-XIX, update In Memoriam sidebar, update Campaign by Numbers
-- groups.tex: Add new-era factions, update existing
-- locations.tex: Add new-era locations
-- theGods.tex: Update Kalimar (dead), add Canalon entry
-- Gear files: Add Armoury of Sin, Kolo's Bow, etc.; update Airship (destroyed)
-- miscCharacters.tex: Minor new-era NPCs
+### 2026-06-12 (Session 8)
+1. Restructured background.tex campaign narrative: merged overlapping arcs (I+II → Arc I, XI+XII → Arc IX, Book Burner Flashbacks folded into Masuda), fixed episode boundary overlaps (Tom'ardy/Kolo's Descent), renumbered to 11 arcs for campaign 1. Added "The Continuation" as its own \section with 5 new arcs (XII-XVI: One More Time, Among the Varg, Destruction of the Creator, Canalon Descends, The Last Heist). Updated "About This Book" (108 eps, 6 players, two campaigns). Replaced placeholder ReadAloud with ep 108 quote. Updated In Memoriam (added Exme erased, Riphard departs, Erin, Burnie). Updated Campaign by Numbers (108 eps, 16 PCs, "1 bank heisted (same bank)", "1 deal with a devil. Then another one."). Added continuation line to Themes sidebar.
+2. locations.tex: Added 7 new-era locations (Jecede, Midnight Pearl, Kalimar's Lair, Black Rock, Fishy Library, Jecede Railway, Erdun's Well). Updated Hope's Rest (Canalon's occupation) and Varg Lands (continuation infiltration).
+3. groups.tex: Updated Varg (Valkar, Pact warriors, Chesney Hawks, Buchra, Eric), Alliance Army (mind-controlled by Canalon), Hell Inc. → "Hell Inc. / The Empire of the Eight" (Lazarus ruling, Bronwen sent). Added Githyanki (Nautiloid, Ulitharid, elder brain, Erin/Burnie/Captain Stick deaths, Gem's rescue).
+4. theGods.tex: Updated Kalimar sidebar to past tense (dead, killed by Mrs Ball, Kolo freed by Wish). Added Canalon sidebar (elder-god space dragon, mind-control, Canilon tattoo connection, Gem's people, Armoury of Sin).
+5. Gear files: theGary.tex (added Destruction section: ep 103, Captain Stick's sacrifice). STANRI.tex (added Continuation section: headmaster of Exme's school, ProfStanri.png image, fixed "conciousness" typo). weapons.tex (added Kolo's Mechanical Bow). misc.tex (updated Puzzle Die with Wish used note, added Armoury of Sin, Kalimel, Rings of Mind Shielding/Jetpacks).
+6. miscCharacters.tex: Expanded Lazarus (tripled: war room, communication style, Arbigal rivalry, Empire of the Eight, astral projection, rings/jetpacks gifts, vol-au-vents, Kolo's HR ticket). Expanded Buck McCaw (continuation as Bucky: plague doctor mask, farewell letter, train fights, scouting bank). Updated Captain Stick (death). Added 8 full new-era NPC entries: Valklondar (lich, games room, Pope of Skeleton Giants), Magrat (giant chieftain, eats a man whole), Zelat (tiger-monk, full duel with Myron), Malkior (monkey-beast, feeblemind, flayed to mist), Reggie (ghost in dogtags), Arbiter Giros (joint Lord Commander), Badunkadonk (telepathic octopod, standoff), Shroomy (sentient mushroom narrator). Added new-era minor figures table (Jeremiah, Buchra, Eric, Krum, Ragnor & Vesh, Calista & Michelle Devereaux, Adam-ants).
+7. Updated CLAUDE.md: Content Status fully updated to reflect all continuation work complete. Remaining Work section updated.
 
 ### 2026-06-12 (Session 6)
 1. Added pages for the new-era party members: content/chars/erin.tex (Sgt Erin Devereux), bronwen.tex, gem.tex, wired into the Characters chapter after toni.tex. No portrait art exists for them: the 2022 continuation posted only episode text and one unreachable reddit gallery (s3shrh), so these pages ship without images.
